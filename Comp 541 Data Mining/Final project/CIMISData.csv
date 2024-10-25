@@ -1,0 +1,590 @@
+Stn Id,Stn Name,CIMIS Region,Month Year,Total ETo (in),qc,Total Precip (in),qc,Avg Sol Rad (Ly/day),qc,Avg Vap Pres (mBars),qc,Avg MaCIMISFeatures Air Temp (F),qc,Avg Min Air Temp (F),qc,Avg Air Temp (F),qc,Avg MaCIMISFeatures Rel Hum (%),qc,Avg Min Rel Hum (%),qc,Avg Rel Hum (%),qc,Avg Dew Point (F),qc,Avg Wind Speed (mph),qc,Avg Soil Temp (F),qc
+75,Irvine,South Coast Valleys,May 2010,5.86,K,0.02, ,605, ,11.9, ,70.9, ,51.2, ,60.6, ,83, ,49, ,66, ,49.0, ,3.8,K,74.0, 
+75,Irvine,South Coast Valleys,Jun 2010,5.50,K,0.00,K,584,K,15.4,K,74.0, ,56.9,K,64.3,K,89,K,59,K,75, ,56.1, ,3.9,K,72.4,K
+75,Irvine,South Coast Valleys,Jul 2010,5.72,K,0.05, ,562, ,16.4, ,77.2,K,58.3, ,66.7,K,92,K,57,K,74, ,57.9, ,3.7,K,72.5, 
+75,Irvine,South Coast Valleys,Aug 2010,6.33, ,0.00, ,594, ,15.3,K,80.8, ,56.4, ,67.6, ,92, ,45, ,67,K,56.0,K,3.5,K,71.2,K
+75,Irvine,South Coast Valleys,Sep 2010,4.86,K,0.00, ,480, ,14.6,K,81.5,K,54.5, ,66.7,K,91,K,45,K,67,K,54.7,K,3.5, ,68.5, 
+75,Irvine,South Coast Valleys,Oct 2010,2.70, ,2.50,K,284, ,14.8, ,72.7,K,55.9,K,63.2, ,92, ,59, ,76, ,54.4, ,3.4,K,66.6, 
+75,Irvine,South Coast Valleys,Nov 2010,2.88,K,0.80,K,286, ,8.8, ,70.9,K,45.9,K,58.2, ,82, ,36, ,55, ,39.4, ,4.0,K,58.7, 
+75,Irvine,South Coast Valleys,Dec 2010,1.49, ,10.61,K,185, ,10.5,K,64.6,K,44.7,K,53.5, ,88, ,53, ,74,K,44.8,K,3.6, ,54.4, 
+75,Irvine,South Coast Valleys,Jan 2011,2.59,K,0.80,K,266, ,8.0, ,69.2,K,43.7,K,55.8, ,80, ,34, ,54, ,37.8, ,3.6,K,52.3, 
+75,Irvine,South Coast Valleys,Feb 2011,2.72, ,2.19,K,341,K,8.0,K,63.9, ,41.0,K,52.1, ,84, ,40, ,62,K,37.3,K,4.2,K,52.2, 
+75,Irvine,South Coast Valleys,Mar 2011,3.69, ,2.43,K,412, ,10.6, ,67.8,K,44.9, ,55.5, ,90, ,47, ,71, ,45.8, ,3.7,K,55.7,K
+75,Irvine,South Coast Valleys,Apr 2011,4.70, ,0.30, ,509,K,11.3,K,70.8,K,48.1,K,59.9, ,89, ,46, ,65,K,47.2,K,4.3,K,60.7,K
+75,Irvine,South Coast Valleys,May 2011,5.66,K,0.52,L,559,L,11.5,L,72.1,L,49.2,L,60.6,L,89,L,46,L,70,L,49.9,L,4.5,L,64.8,L
+75,Irvine,South Coast Valleys,Jun 2011,5.38,K,0.04,L,582,L,15.1,L,74.6,L,55.8,L,64.1,L,92,L,57,L,74,L,55.6,L,4.1,L,69.1,L
+75,Irvine,South Coast Valleys,Jul 2011,6.40, ,0.07, ,599, ,16.7, ,80.3, ,59.0, ,68.8, ,93, ,50, ,70, ,58.4, ,4.1,K,72.8, 
+75,Irvine,South Coast Valleys,Aug 2011,6.12, ,0.00, ,568, ,16.8, ,81.9, ,57.2, ,68.6, ,96, ,49, ,71, ,58.5, ,3.7, ,71.8, 
+75,Irvine,South Coast Valleys,Sep 2011,4.06, ,0.47,K,416, ,16.3, ,79.5,K,56.6, ,66.5, ,96, ,53, ,74, ,57.7, ,3.6,K,69.8, 
+75,Irvine,South Coast Valleys,Oct 2011,3.38,K,0.80,K,341, ,12.9, ,76.4,K,50.6,K,62.5, ,92, ,45, ,67, ,50.8, ,3.5, ,65.6, 
+75,Irvine,South Coast Valleys,Nov 2011,2.17, ,1.40,K,235, ,9.6, ,68.9, ,45.7, ,56.1, ,87, ,42, ,65, ,42.8, ,3.6, ,58.9, 
+75,Irvine,South Coast Valleys,Dec 2011,2.41, ,0.26, ,223, ,6.8, ,65.5, ,40.8, ,52.3, ,80, ,31, ,52, ,33.1, ,4.2,K,52.1, 
+75,Irvine,South Coast Valleys,Jan 2012,2.66, ,0.76,K,243, ,7.4,K,70.5,K,42.5,K,55.7, ,80, ,31, ,52,K,35.2,K,3.8,K,52.2, 
+75,Irvine,South Coast Valleys,Feb 2012,2.81, ,0.73,K,306, ,8.3,K,66.9,K,42.9, ,54.4, ,84, ,39, ,60,K,38.9,K,4.1,K,53.7, 
+75,Irvine,South Coast Valleys,Mar 2012,3.85, ,1.91,K,408, ,9.0,K,67.2,K,44.1,K,55.0, ,85, ,44, ,62,K,40.6,K,4.2,K,56.6, 
+75,Irvine,South Coast Valleys,Apr 2012,4.75, ,0.98,K,530,K,10.9,K,70.8, ,47.1, ,57.9, ,87, ,45, ,66,K,46.0,K,4.0,K,61.1,K
+75,Irvine,South Coast Valleys,May 2012,5.50, ,0.25, ,567, ,13.7, ,72.7,K,52.3, ,61.6, ,91, ,54, ,73, ,53.0, ,4.2,K,67.2, 
+75,Irvine,South Coast Valleys,Jun 2012,6.11, ,0.00, ,631, ,14.2, ,75.2, ,54.2, ,63.8, ,91, ,51, ,70, ,53.9, ,4.1, ,70.4, 
+75,Irvine,South Coast Valleys,Jul 2012,6.33, ,0.17, ,615, ,15.9, ,79.0,K,57.3,K,67.0, ,90, ,51, ,71, ,57.0, ,4.0,K,71.9, 
+75,Irvine,South Coast Valleys,Aug 2012,6.44, ,0.00, ,562, ,17.7, ,86.0, ,62.7, ,73.2, ,91, ,42, ,64, ,60.0, ,3.8, ,73.6, 
+75,Irvine,South Coast Valleys,Sep 2012,5.30,K,0.00, ,483,K,16.0,K,86.8,K,59.5,K,71.7, ,93, ,37, ,61,K,56.9,K,3.6, ,72.2, 
+75,Irvine,South Coast Valleys,Oct 2012,4.07, ,0.09, ,391,K,12.8,K,78.6,K,54.4,K,65.9, ,84, ,41, ,60,K,49.9,K,3.8,K,69.1, 
+75,Irvine,South Coast Valleys,Nov 2012,2.45,K,0.75,K,293,K,11.0,K,71.2,K,47.7,K,58.2,K,87,K,46,K,67, ,45.8, ,3.4,K,61.6,K
+75,Irvine,South Coast Valleys,Dec 2012,1.53, ,1.75,K,212, ,10.4,K,62.7, ,44.7,K,52.5, ,90, ,54, ,75,K,44.6,K,3.3, ,58.4, 
+75,Irvine,South Coast Valleys,Jan 2013,2.54,K,1.27,K,284,K,6.7,K,66.0, ,41.0,K,52.5, ,73, ,31, ,50,K,31.8,K,4.0,K,51.6, 
+75,Irvine,South Coast Valleys,Feb 2013,2.88, ,0.49,K,367,K,7.5,K,65.2,K,40.5,K,52.3, ,83, ,38, ,58,K,35.9,K,4.0,K,53.2, 
+75,Irvine,South Coast Valleys,Mar 2013,4.08, ,0.74, ,456,K,10.6,K,69.9,K,46.2, ,56.6, ,88, ,47, ,69,K,45.6,K,3.7, ,57.5, 
+75,Irvine,South Coast Valleys,Apr 2013,4.79, ,0.00, ,504,K,10.7,K,70.7, ,49.1, ,59.0, ,82, ,45, ,63,K,45.2,K,4.5,K,62.1, 
+75,Irvine,South Coast Valleys,May 2013,5.99,K,0.49,K,584, ,13.3,K,75.5,K,54.1, ,64.0,K,89,K,47,K,66,K,51.9,K,4.5,K,67.7, 
+75,Irvine,South Coast Valleys,Jun 2013,6.07,K,0.07, ,611, ,15.4, ,77.2,K,57.1, ,66.1, ,91, ,52, ,71, ,56.1, ,4.1, ,71.1, 
+75,Irvine,South Coast Valleys,Jul 2013,5.81, ,0.09, ,558, ,17.3, ,79.8,K,59.8, ,68.7, ,91, ,53, ,72, ,59.3, ,3.8,K,74.8, 
+75,Irvine,South Coast Valleys,Aug 2013,6.53,K,0.00, ,603,K,16.6,L,85.6,K,57.8,K,94.6,K,91,L,45,L,66,L,58.1,L,3.5,K,74.4, 
+75,Irvine,South Coast Valleys,Sep 2013,5.26,K,0.18, ,495,K,15.4,K,84.0,K,58.8,K,70.2, ,86, ,41, ,65,L,57.8,L,3.2,K,73.2, 
+75,Irvine,South Coast Valleys,Oct 2013,3.92,K,1.50,K,371,K,11.6,K,76.5,K,51.9, ,63.1, ,87, ,41, ,62,K,47.2,K,3.7,K,65.4, 
+75,Irvine,South Coast Valleys,Nov 2013,2.52,K,1.31,K,262, ,9.7, ,72.5,K,49.2, ,59.9, ,81, ,38, ,57, ,42.8, ,3.3,K,60.6, 
+75,Irvine,South Coast Valleys,Dec 2013,2.49,K,0.46, ,237,L,7.1,L,68.8,K,43.8,L,55.6,L,72,L,28,L,50,L,34.2,L,3.6,K,55.2,L
+75,Irvine,South Coast Valleys,Jan 2014,2.82,K,0.01, ,272, ,7.9,K,73.6,K,46.1,K,59.9,K,71,K,29,K,50,K,36.0,K,3.5,K,54.1, 
+75,Irvine,South Coast Valleys,Feb 2014,2.64, ,1.51,K,324, ,10.6, ,69.7,K,47.3, ,57.1, ,87, ,45, ,67, ,45.6, ,3.5, ,56.6, 
+75,Irvine,South Coast Valleys,Mar 2014,4.09,K,0.34,K,424,K,11.7, ,72.2,K,50.8, ,60.3, ,88, ,45, ,67, ,48.0, ,3.7,K,61.2, 
+75,Irvine,South Coast Valleys,Apr 2014,5.54,K,0.52, ,552, ,10.8,K,74.8,K,51.1, ,62.4,K,83,K,38,K,59,K,45.7,K,4.2,K,63.9, 
+75,Irvine,South Coast Valleys,May 2014,6.39,K,0.00, ,589, ,11.9,K,78.9,K,56.3,K,68.2,K,75,K,37,K,63,L,51.5,L,4.4,K,66.8,K
+75,Irvine,South Coast Valleys,Jun 2014,6.45, ,0.00, ,640, ,16.1, ,78.7, ,58.7, ,67.4, ,90, ,51, ,70, ,57.3, ,4.0, ,71.9, 
+75,Irvine,South Coast Valleys,Jul 2014,6.54, ,0.01, ,588, ,18.2, ,84.2, ,62.6, ,72.6,K,89, ,47, ,67,K,60.7,K,3.6, ,74.6, 
+75,Irvine,South Coast Valleys,Aug 2014,6.24, ,0.01, ,558, ,18.4,K,84.6, ,62.0,K,72.4, ,90, ,47, ,68,K,61.0,K,3.6,K,75.0, 
+75,Irvine,South Coast Valleys,Sep 2014,5.23,K,0.00, ,476, ,17.8, ,86.8,K,61.9,K,73.3,L,88,K,42,K,64,L,60.1,L,3.4, ,74.2, 
+75,Irvine,South Coast Valleys,Oct 2014,4.05,K,0.00, ,374, ,14.4,K,82.4,K,56.7, ,68.8,K,85,K,41,K,62,K,53.5,K,3.2, ,69.3, 
+75,Irvine,South Coast Valleys,Nov 2014,3.17,K,0.29, ,286, ,9.1,K,76.4,K,51.1,K,63.9,K,69, ,30, ,47,K,38.9,K,3.6,K,63.1, 
+75,Irvine,South Coast Valleys,Dec 2014,1.91,K,3.11,K,207, ,11.3,K,67.1,K,49.2,K,57.4,K,88, ,48, ,69,K,45.9,K,3.7,K,59.4, 
+75,Irvine,South Coast Valleys,Jan 2015,2.51,K,0.29, ,245, ,9.3,K,71.9,K,47.3,K,59.1,K,78, ,34, ,56,K,41.4,K,3.2,K,56.4, 
+75,Irvine,South Coast Valleys,Feb 2015,3.02,K,0.60,K,351, ,11.0, ,73.9,K,48.1,K,60.1,K,88,K,40,K,68,L,47.7,L,3.5, ,59.6, 
+75,Irvine,South Coast Valleys,Mar 2015,4.98,K,0.05, ,470,K,10.4,K,78.6,K,51.0,K,63.4,L,77,K,32,K,59,L,46.5,L,3.8,K,62.1, 
+75,Irvine,South Coast Valleys,Apr 2015,5.31, ,0.17, ,513, ,10.2,K,74.7,K,50.2, ,62.5,K,82, ,36, ,54,K,44.1,K,4.0, ,64.5, 
+75,Irvine,South Coast Valleys,May 2015,4.49, ,1.32,K,457, ,13.3, ,71.2, ,54.4, ,61.7, ,91, ,53, ,71, ,52.0, ,4.0,K,66.5, 
+75,Irvine,South Coast Valleys,Jun 2015,5.75,K,0.00, ,559, ,16.9, ,80.4,K,59.6,K,68.8,K,92,K,50,K,71,L,58.5,L,4.0, ,71.3, 
+75,Irvine,South Coast Valleys,Jul 2015,5.69,K,0.33,K,532, ,18.9,K,81.5, ,63.2, ,71.1, ,92, ,53, ,72,K,61.8,K,3.8,K,73.6, 
+75,Irvine,South Coast Valleys,Aug 2015,6.28, ,0.03, ,550, ,18.8, ,86.1,K,62.8, ,73.8,K,94, ,46, ,66,K,61.6,K,3.7,K,76.1, 
+75,Irvine,South Coast Valleys,Sep 2015,5.00,K,2.20,K,453, ,18.7,K,87.3,K,63.3,K,74.4,K,93, ,43, ,65,K,61.5,K,3.5,K,75.4, 
+75,Irvine,South Coast Valleys,Oct 2015,3.90,K,0.58, ,342, ,16.0,K,83.8,K,60.5,L,71.6,L,84,K,41,K,63,L,56.7,L,3.6,K,71.8, 
+75,Irvine,South Coast Valleys,Nov 2015,3.24,K,0.44, ,299, ,7.3, ,73.0,K,46.6,K,60.2,K,71,K,25,K,42,K,35.2,K,3.8, ,60.0, 
+75,Irvine,South Coast Valleys,Dec 2015,2.35, ,1.11,K,243, ,7.7,K,66.5, ,42.6, ,54.4, ,83, ,34, ,53,K,35.7,K,3.6,K,53.8, 
+75,Irvine,South Coast Valleys,Jan 2016,1.87, ,2.11,K,218, ,10.2, ,65.5, ,45.6, ,55.0, ,89, ,46, ,69, ,44.0, ,3.0,K,53.9, 
+75,Irvine,South Coast Valleys,Feb 2016,3.83,K,0.24, ,374, ,7.9, ,77.7,K,46.1,K,60.3,L,74,K,25,K,48,L,38.4,L,3.9,K,56.9, 
+75,Irvine,South Coast Valleys,Mar 2016,3.98, ,1.08,K,418, ,11.8,K,71.3, ,48.4,K,58.9, ,93, ,45, ,69,K,48.3,K,3.6,K,62.2, 
+75,Irvine,South Coast Valleys,Apr 2016,5.16,K,0.06, ,503, ,10.9,K,74.7,K,51.0, ,62.6,K,87,K,40,K,59,K,45.8,K,4.1,K,64.7, 
+75,Irvine,South Coast Valleys,May 2016,4.64, ,0.08, ,475, ,13.9, ,71.6, ,54.8, ,62.1, ,92, ,55, ,73, ,53.2, ,4.1,K,68.2, 
+75,Irvine,South Coast Valleys,Jun 2016,5.77,K,0.00, ,558, ,16.4,K,79.7,L,59.8,K,68.3,L,93,K,50,K,71,L,58.3,L,3.8, ,72.9, 
+75,Irvine,South Coast Valleys,Jul 2016,6.77,K,0.00, ,605, ,18.2, ,85.5,K,62.5, ,72.6,K,97, ,44, ,67,K,60.8,K,3.8,K,75.9, 
+75,Irvine,South Coast Valleys,Aug 2016,5.97, ,0.00, ,542, ,18.7, ,84.3,K,61.3, ,71.4, ,99, ,48, ,71, ,61.5, ,3.5, ,75.6, 
+75,Irvine,South Coast Valleys,Sep 2016,4.51,K,0.00, ,417, ,15.5,K,83.0,K,58.0, ,70.1,K,94,K,43,K,66,L,57.1,L,3.6,K,71.8, 
+75,Irvine,South Coast Valleys,Oct 2016,3.24,K,0.45,K,305,K,14.2,K,79.3,K,54.6,K,66.1,K,93,L,44,L,69,L,53.7,L,3.0,K,67.4,K
+75,Irvine,South Coast Valleys,Nov 2016,2.76,K,1.05,K,256,L,10.1, ,76.9,K,49.0,K,62.6,K,86, ,32, ,55,L,43.7,L,3.3, ,61.8,L
+75,Irvine,South Coast Valleys,Dec 2016,1.89,K,3.71,K,194, ,10.3,K,66.3,K,46.2,K,56.2, ,88, ,47, ,67,K,43.0,K,3.8,K,55.8,L
+75,Irvine,South Coast Valleys,Jan 2017,1.97,K,5.98,K,212, ,10.4,K,64.1, ,47.2,K,55.2,K,88, ,52, ,74,L,44.8,L,4.0,K,55.1, 
+75,Irvine,South Coast Valleys,Feb 2017,1.75, ,3.44,K,246, ,12.6,K,65.2, ,47.6,K,55.9, ,98, ,59, ,82,K,50.1,K,3.3,K,57.6, 
+75,Irvine,South Coast Valleys,Mar 2017,4.24,K,0.07, ,430, ,11.4, ,74.5, ,47.1, ,60.0, ,93, ,39, ,65, ,47.0, ,3.5, ,61.2, 
+75,Irvine,South Coast Valleys,Apr 2017,5.17,K,0.00, ,523, ,12.7,K,75.9,K,50.3, ,62.3,K,96,K,42,K,69,L,51.1,L,4.0,K,65.4, 
+75,Irvine,South Coast Valleys,May 2017,4.70,K,0.33, ,471, ,14.3, ,73.6,K,52.9,K,62.7,K,98,K,54,K,74,K,53.8,K,4.1,K,67.0, 
+75,Irvine,South Coast Valleys,Jun 2017,5.47, ,0.00, ,543, ,17.5,K,79.8,K,57.5, ,67.4,K,99, ,54, ,77,K,59.5,K,3.8,K,71.2, 
+75,Irvine,South Coast Valleys,Jul 2017,6.25,K,0.00,L,588,L,19.2,L,87.3,L,62.0,L,73.8,L,97,L,45,L,68,L,62.3,L,3.6,L,74.2,L
+75,Irvine,South Coast Valleys,Aug 2017,6.18,K,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+75,Irvine,South Coast Valleys,Sep 2017,4.48,K,0.00,L,373,L,14.8,L,79.7,L,54.4,L,67.1,L,94,L,44,L,66,L,54.4,L,3.6,L,69.7,L
+75,Irvine,South Coast Valleys,Oct 2017,3.44,K,0.00, ,301, ,13.4, ,83.4,K,54.2,L,67.3,L,89,K,39,K,64,L,53.1,L,3.8,K,66.9, 
+75,Irvine,South Coast Valleys,Nov 2017,1.85,K,0.06, ,204, ,13.2, ,75.3,K,49.7,K,61.8,K,96, ,47, ,71,K,51.6,K,2.7, ,62.8, 
+75,Irvine,South Coast Valleys,Dec 2017,3.23,K,0.00, ,229, ,6.3,K,74.1,K,45.8,K,59.6,K,63,K,23,K,42,L,31.0,L,4.3,K,55.0, 
+75,Irvine,South Coast Valleys,Jan 2018,2.38,K,1.49, ,231, ,9.8,K,72.7,K,46.0,K,58.3,L,85,K,36,K,62,L,43.2,L,3.2,K,55.9, 
+75,Irvine,South Coast Valleys,Feb 2018,3.14, ,0.44, ,338, ,7.4,K,69.2, ,43.1,K,55.9, ,79, ,28, ,49,K,35.5,K,3.8, ,55.5, 
+75,Irvine,South Coast Valleys,Mar 2018,3.70,K,0.86, ,378, ,8.3,K,68.3, ,47.2, ,57.5, ,75,K,34,K,64,L,43.4,L,3.8, ,58.1, 
+75,Irvine,South Coast Valleys,Apr 2018,4.81,K,0.00,K,491,K,6.1,K,74.2,K,50.3, ,61.3,K,49,K,21,K,56,L,43.9,L,2.1,K,63.6,K
+75,Irvine,South Coast Valleys,May 2018,3.78, ,0.02, ,433, ,13.3, ,71.3, ,53.3, ,61.6, ,90, ,53, ,71, ,51.9, ,1.1,K,64.9, 
+75,Irvine,South Coast Valleys,Jun 2018,6.28,K,0.00,K,653,K,15.8,K,78.4,K,58.6, ,67.2,K,89,K,51,K,69,K,56.8,K,3.7,K,71.0,K
+75,Irvine,South Coast Valleys,Jul 2018,7.39,K,0.00, ,662,K,19.5,K,86.7,L,66.1,K,74.8,L,89,K,45,K,69,L,63.6,L,4.2,K,79.7, 
+75,Irvine,South Coast Valleys,Aug 2018,6.84, ,0.00, ,613,K,19.8,K,86.3,K,64.8, ,74.6,K,91, ,48, ,68,K,63.1,K,3.8,K,79.2, 
+75,Irvine,South Coast Valleys,Sep 2018,5.22, ,0.00, ,536,K,18.1, ,81.9, ,60.3, ,69.6, ,93, ,52, ,73, ,60.5, ,3.7,K,75.3, 
+75,Irvine,South Coast Valleys,Oct 2018,4.05, ,1.31,K,408,K,14.3,K,78.3, ,56.8, ,66.6, ,89, ,44, ,65,K,52.8,K,3.4,K,68.9, 
+75,Irvine,South Coast Valleys,Nov 2018,3.18, ,1.54,K,327,K,9.8,K,75.6, ,50.6, ,62.9, ,74, ,34, ,52,K,40.5,K,3.5,K,61.0, 
+75,Irvine,South Coast Valleys,Dec 2018,2.06, ,1.59,K,258,K,10.3, ,67.4, ,47.1, ,55.9, ,88, ,43, ,68, ,44.3, ,3.1, ,56.5, 
+75,Irvine,South Coast Valleys,Jan 2019,2.30, ,4.10,K,265,K,9.7,K,67.4,K,46.8, ,56.7,K,83, ,43, ,62,K,41.4,K,3.6,K,54.1, 
+75,Irvine,South Coast Valleys,Feb 2019,2.31, ,6.67, ,334,K,9.2, ,61.4, ,42.2,K,51.4, ,91, ,47, ,70, ,41.6, ,3.6,K,53.8, 
+75,Irvine,South Coast Valleys,Mar 2019,4.10, ,1.51, ,456,K,10.7,K,68.6, ,48.6, ,58.0, ,86, ,47, ,67,K,45.3,K,3.7,K,58.9, 
+75,Irvine,South Coast Valleys,Apr 2019,4.93, ,0.16, ,540,K,12.4, ,72.6,K,52.4, ,61.5,K,88, ,48, ,67,K,49.8,K,3.8,K,64.7, 
+75,Irvine,South Coast Valleys,May 2019,4.84, ,0.95, ,522,K,13.2, ,69.2,K,54.0, ,60.8, ,89, ,55, ,73, ,51.9, ,4.1,K,66.7, 
+75,Irvine,South Coast Valleys,Jun 2019,4.67,K,0.51, ,502,K,16.6, ,74.9,L,59.2, ,65.9,K,94,K,60,K,77,L,58.3,L,3.8, ,71.2, 
+75,Irvine,South Coast Valleys,Jul 2019,7.13,K,0.24,K,679,K,18.0, ,82.5,K,62.4, ,71.1,K,89, ,51, ,70,K,60.5,K,4.1,K,75.2, 
+75,Irvine,South Coast Valleys,Aug 2019,6.89, ,0.06,K,649,K,18.6, ,84.3, ,61.1, ,71.5, ,96, ,48, ,71, ,61.4, ,3.8,K,75.4, 
+75,Irvine,South Coast Valleys,Sep 2019,5.17, ,0.07, ,513,K,18.0, ,83.8, ,60.0, ,71.2, ,96, ,46, ,69, ,60.3, ,3.6,K,73.8, 
+75,Irvine,South Coast Valleys,Oct 2019,4.91,K,0.01, ,472,K,10.2,K,82.0,K,51.4,K,67.3,K,80,K,28,K,48,L,43.0,L,3.9,K,65.3, 
+75,Irvine,South Coast Valleys,Nov 2019,2.80,K,2.63,K,316,K,10.3, ,74.1,K,47.5,K,60.4,K,87,K,38,K,60,K,44.0,K,3.3, ,59.1, 
+75,Irvine,South Coast Valleys,Dec 2019,1.87,K,4.02,K,226,K,10.0, ,65.7, ,47.0,K,55.6, ,83, ,46, ,66, ,42.8, ,2.9, ,55.1, 
+75,Irvine,South Coast Valleys,Jan 2020,2.42, ,0.17,K,304,K,9.5, ,68.2,K,45.2,K,55.6,K,86, ,44, ,65,K,42.6,K,2.7, ,53.3, 
+75,Irvine,South Coast Valleys,Feb 2020,3.43,K,0.54,K,402,K,8.4,K,70.9,K,44.2,K,57.3,K,82,K,31,K,54,K,38.3,K,3.6,K,54.2, 
+75,Irvine,South Coast Valleys,Mar 2020,3.53, ,3.97, ,405,K,11.1,K,66.5, ,48.1, ,56.8, ,93, ,50, ,70,K,46.6,K,3.6,K,59.4, 
+75,Irvine,South Coast Valleys,Apr 2020,4.47,K,5.36, ,497,K,13.3,K,71.5,K,51.8, ,61.2,K,95,K,53,K,72,K,51.9,K,3.8,K,63.5, 
+75,Irvine,South Coast Valleys,May 2020,6.59, ,0.49,K,663,K,15.0, ,77.7,K,55.1, ,65.9, ,96, ,49, ,69, ,55.3, ,3.9,K,71.3, 
+75,Irvine,South Coast Valleys,Jun 2020,5.93,K,0.20, ,603,K,15.0,K,78.8,K,59.2, ,67.2,L,87,K,49,K,71,L,57.2,L,4.2,K,72.9, 
+75,Irvine,South Coast Valleys,Jul 2020,7.23, ,0.15, ,697,K,16.4, ,82.4,K,60.4, ,70.3,K,87, ,46, ,65,K,57.8,K,3.7, ,75.5, 
+75,Irvine,South Coast Valleys,Aug 2020,7.19,K,0.39,K,640,K,16.7,K,87.0,K,63.3,K,73.9,K,80, ,39, ,58,K,58.1,K,3.7,K,76.3, 
+75,Irvine,South Coast Valleys,Sep 2020,5.45,K,0.34,K,490,K,14.9,K,87.5,K,59.2, ,72.1,K,82,K,36,K,59,L,55.4,L,3.1,K,72.9, 
+75,Irvine,South Coast Valleys,Oct 2020,4.38, ,0.06, ,407,K,13.3,K,83.4,K,55.7, ,69.3,K,84, ,37, ,55,K,50.5,K,3.2,K,68.6, 
+75,Irvine,South Coast Valleys,Nov 2020,2.92,K,0.61, ,342,K,9.9, ,73.7,K,46.9, ,59.6,K,84, ,35, ,58,K,42.7,K,3.0,K,58.8, 
+75,Irvine,South Coast Valleys,Dec 2020,2.62,K,0.90,K,278,K,6.8, ,70.7,K,44.4, ,57.3,K,72,K,26,K,45,L,33.3,L,3.3, ,52.7, 
+75,Irvine,South Coast Valleys,Jan 2021,2.72,K,3.02, ,308,K,7.9, ,69.2,K,45.3,K,56.7,K,78,K,34,K,54,K,37.6,K,3.4, ,52.8, 
+75,Irvine,South Coast Valleys,Feb 2021,3.21,K,0.05, ,404,K,8.5,K,69.4,K,45.8, ,56.8,K,82, ,36, ,56,K,38.8,K,3.3,K,55.1, 
+75,Irvine,South Coast Valleys,Mar 2021,4.44,K,1.48,K,501,K,9.0,K,68.0,K,44.3, ,55.8,K,87, ,40, ,61,K,41.0,K,3.6, ,57.1, 
+75,Irvine,South Coast Valleys,Apr 2021,5.20,K,0.06, ,560,K,11.3, ,73.1,K,50.5, ,61.1,K,89,K,44,K,63,K,47.3,K,3.7,K,63.7, 
+75,Irvine,South Coast Valleys,May 2021,5.84, ,0.07,K,600,K,13.6, ,72.7,K,55.3, ,63.1, ,90, ,52, ,69, ,52.7, ,4.2,K,68.5, 
+75,Irvine,South Coast Valleys,Jun 2021,6.86,K,0.01,K,698,K,15.9, ,78.9,K,58.4, ,67.5,K,93,K,50,K,69,K,56.9,K,4.0, ,72.4, 
+75,Irvine,South Coast Valleys,Jul 2021,7.15,K,0.06, ,665, ,18.6, ,83.6, ,63.7, ,72.3, ,93, ,48, ,69, ,61.4, ,3.8, ,76.1, 
+75,Irvine,South Coast Valleys,Aug 2021,6.36,K,0.19,K,587,K,18.0, ,84.1,K,62.1, ,71.9, ,93, ,46, ,68, ,60.4, ,3.5,K,75.1, 
+75,Irvine,South Coast Valleys,Sep 2021,4.99, ,0.11, ,503,K,17.0, ,82.7,K,59.6, ,69.5, ,93, ,48, ,70, ,58.7, ,3.3, ,72.4, 
+75,Irvine,South Coast Valleys,Oct 2021,3.98, ,0.81, ,410,K,11.6,K,77.2, ,52.6,K,64.1, ,81, ,38, ,58,K,46.9,K,3.3,K,64.0, 
+75,Irvine,South Coast Valleys,Nov 2021,3.00,K,0.23,K,332,K,10.4, ,76.4,K,51.4,K,62.3,L,80,K,37,K,58,L,43.3,L,3.2, ,60.5, 
+75,Irvine,South Coast Valleys,Dec 2021,1.58, ,5.80, ,220,K,10.5, ,63.3, ,44.8, ,53.4, ,94, ,52, ,75, ,45.4, ,3.2,K,54.0, 
+75,Irvine,South Coast Valleys,Jan 2022,2.70, ,0.12, ,293,K,7.8,K,70.0, ,46.3, ,57.7, ,74, ,30, ,50,K,36.5,K,3.2, ,52.8, 
+75,Irvine,South Coast Valleys,Feb 2022,3.63,K,0.37, ,428,K,6.0,K,72.6,K,45.5,K,58.0,L,62,K,22,K,39,L,30.1,L,4.0,K,53.0, 
+75,Irvine,South Coast Valleys,Mar 2022,4.80, ,1.19, ,514,K,9.5,K,72.6,K,47.7, ,59.6,K,80, ,35, ,56,K,41.7,K,3.9,K,58.3, 
+75,Irvine,South Coast Valleys,Apr 2022,5.55,K,0.21, ,592,K,11.1,K,74.6,K,51.2,K,61.4,L,84,K,41,K,62,L,47.5,L,4.0,K,64.5, 
+75,Irvine,South Coast Valleys,May 2022,5.97, ,0.02, ,608,K,12.9,K,73.5,K,54.1,K,63.2,K,85, ,49, ,67,L,51.5,L,4.3,K,67.9, 
+75,Irvine,South Coast Valleys,Jun 2022,7.20, ,0.22,K,714,K,16.3, ,81.8, ,59.4, ,69.3, ,90, ,45, ,67, ,57.6, ,4.1,K,72.5, 
+75,Irvine,South Coast Valleys,Jul 2022,7.14, ,0.28,K,686,K,17.9, ,82.0, ,62.3, ,70.7, ,90, ,50, ,70, ,60.4, ,3.9,K,74.7, 
+75,Irvine,South Coast Valleys,Aug 2022,6.92, ,0.06, ,603,K,18.8, ,86.7,K,64.2, ,74.2, ,88, ,43, ,65, ,61.6, ,3.6,K,75.8, 
+75,Irvine,South Coast Valleys,Sep 2022,5.23,K,0.29, ,478, ,19.1,K,87.6,K,64.7,K,74.9,K,88,K,43,K,64,L,61.6,L,3.5,K,74.6, 
+75,Irvine,South Coast Valleys,Oct 2022,3.61, ,0.48,K,367,K,16.0, ,78.0, ,58.8,K,67.0,K,90, ,50, ,70,K,56.4,K,3.2, ,69.2, 
+75,Irvine,South Coast Valleys,Nov 2022,2.94, ,1.91, ,321,K,8.2,K,70.4, ,47.1, ,58.1, ,76, ,33, ,51,K,36.8,K,3.7,K,57.4, 
+75,Irvine,South Coast Valleys,Dec 2022,1.81, ,3.32, ,232, ,9.9,K,65.6,K,45.0,K,54.1, ,88, ,46, ,69,K,43.6,K,2.8, ,53.9, 
+75,Irvine,South Coast Valleys,Jan 2023,2.05, ,6.02,K,245,K,9.3,K,63.2, ,44.8, ,53.8,K,87,K,47,K,66, ,41.2, ,4.0,K,53.4,K
+75,Irvine,South Coast Valleys,Feb 2023,2.76, ,3.70, ,345,K,7.2,K,64.5, ,42.2, ,53.1, ,76, ,34, ,54,K,34.7,K,4.0,K,51.7, 
+75,Irvine,South Coast Valleys,Mar 2023,2.98, ,6.09, ,366,K,10.3, ,63.0, ,45.5,K,53.7, ,94, ,52, ,73, ,44.8, ,3.8,K,54.9, 
+75,Irvine,South Coast Valleys,Apr 2023,4.67, ,0.05, ,523,K,11.3, ,69.7, ,49.1, ,58.5, ,89, ,47, ,68, ,47.1, ,3.8,K,60.0,K
+75,Irvine,South Coast Valleys,May 2023,3.82, ,1.07,K,422, ,13.9, ,68.1, ,54.8, ,60.4, ,92, ,61, ,77, ,53.1, ,3.8,K,65.4, 
+75,Irvine,South Coast Valleys,Jun 2023,4.56, ,0.20, ,490, ,14.7, ,72.4, ,56.0, ,63.5, ,90, ,58, ,74, ,54.8, ,3.7,K,65.7, 
+75,Irvine,South Coast Valleys,Jul 2023,7.04, ,0.01, ,648, ,17.9,K,84.7, ,61.4, ,71.7, ,92, ,46, ,68,K,60.1,K,3.6, ,72.3, 
+75,Irvine,South Coast Valleys,Aug 2023,6.30, ,0.50, ,577, ,19.2,K,84.9, ,62.3, ,72.4, ,94, ,48, ,70,L,62.0,L,3.6,K,72.6, 
+75,Irvine,South Coast Valleys,Sep 2023,3.97, ,0.12, ,406,K,17.5, ,78.9, ,60.5, ,68.7, ,92, ,55, ,73, ,59.6, ,3.4,K,70.2, 
+75,Irvine,South Coast Valleys,Oct 2023,4.12, ,0.11, ,406,K,14.2,K,80.0, ,55.3, ,66.5, ,88, ,44, ,65,K,52.0,K,3.3,K,65.8, 
+75,Irvine,South Coast Valleys,Nov 2023,3.19, ,0.40, ,320,K,8.5,K,75.7, ,50.2, ,62.4, ,67, ,28, ,46,K,37.6,K,3.4,K,57.3, 
+75,Irvine,South Coast Valleys,Dec 2023,2.06, ,1.79, ,242, ,10.3,K,69.5, ,48.3,K,57.7,K,84, ,46, ,64,K,44.0,K,2.6, ,54.3, 
+75,Irvine,South Coast Valleys,Jan 2024,2.14, ,2.18, ,271, ,9.9, ,66.3, ,45.1, ,54.7, ,86, ,45, ,68, ,43.4, ,2.5, ,51.9, 
+75,Irvine,South Coast Valleys,Feb 2024,2.06, ,8.22,K,280, ,11.2, ,63.5, ,47.4, ,54.9, ,92, ,58, ,76, ,47.3, ,3.3,K,52.9, 
+75,Irvine,South Coast Valleys,Mar 2024,3.62, ,3.65, ,418, ,11.2,K,65.9, ,47.5, ,56.1, ,91, ,54, ,73,K,47.3,K,3.7,K,55.5, 
+75,Irvine,South Coast Valleys,Apr 2024,4.48, ,0.48, ,509,K,11.7, ,69.3, ,48.4, ,58.2, ,90, ,51, ,70, ,48.3, ,3.7, ,57.8,K
+99,Santa Monica,Los Angeles Basin,May 2010,5.13,K,0.00,L,637,L,12.7,L,66.6,L,51.9,L,58.9,L,88,L,61,L,75,L,50.9,L,3.0,L,63.2,L
+99,Santa Monica,Los Angeles Basin,Jun 2010,4.77,K,0.00,L,546,L,15.9,L,70.1,L,59.1,L,64.0,L,85,L,71,L,78,L,57.1,L,3.0,L,68.1,L
+99,Santa Monica,Los Angeles Basin,Jul 2010,5.08,K,0.00, ,525, ,16.7, ,72.8,K,60.9,K,65.8,K,85,K,68,K,77, ,58.4, ,4.0, ,69.5,K
+99,Santa Monica,Los Angeles Basin,Aug 2010,5.89, ,0.00, ,593, ,16.1,K,74.3, ,59.4, ,65.7, ,84, ,63, ,75,K,57.4,K,3.8, ,69.3,K
+99,Santa Monica,Los Angeles Basin,Sep 2010,4.30,K,0.00, ,466, ,15.6,L,74.6,K,59.1,K,66.4,K,83,K,57,K,72,L,56.5,L,3.6, ,67.1,K
+99,Santa Monica,Los Angeles Basin,Oct 2010,2.72, ,0.11, ,285, ,15.0, ,72.7, ,59.6,K,64.9, ,82, ,61, ,72, ,54.7, ,3.6,K,65.3, 
+99,Santa Monica,Los Angeles Basin,Nov 2010,2.04,K,0.60,K,290,L,10.0,L,65.9,K,49.1,L,59.8,L,81,K,48,K,64,L,44.9,L,4.3,K,57.8,L
+99,Santa Monica,Los Angeles Basin,Dec 2010,1.48,K,9.71, ,195, ,12.8,K,64.8,K,50.5,K,56.6, ,96, ,65, ,80,K,49.8,K,3.3, ,55.7, 
+99,Santa Monica,Los Angeles Basin,Jan 2011,2.49,K,0.84, ,266, ,9.8, ,68.5,K,50.3,K,58.4, ,81, ,43, ,60, ,43.3, ,3.3,K,54.8,K
+99,Santa Monica,Los Angeles Basin,Feb 2011,2.52,K,2.81, ,348,K,10.3,K,62.6,K,45.2, ,53.4, ,93, ,57, ,75,K,44.1,K,3.6, ,55.5, 
+99,Santa Monica,Los Angeles Basin,Mar 2011,3.40,K,4.44, ,411, ,13.3,K,64.9,K,49.1, ,56.3, ,98, ,68, ,86,K,51.9,K,3.6,K,59.1,K
+99,Santa Monica,Los Angeles Basin,Apr 2011,4.90,K,0.00, ,550, ,14.2,K,68.0,K,52.9,K,60.3,K,97,K,63,K,81,K,53.3,K,4.3,K,64.0, 
+99,Santa Monica,Los Angeles Basin,May 2011,5.56,K,0.61, ,617, ,14.4,K,67.8,K,52.9, ,60.2,K,95,K,68,K,87,L,55.2,L,4.3,K,65.0,K
+99,Santa Monica,Los Angeles Basin,Jun 2011,4.64,K,0.19, ,553, ,18.0,K,68.5, ,56.0,K,61.5, ,100, ,84, ,96,K,60.3,K,3.6,K,67.1,K
+99,Santa Monica,Los Angeles Basin,Jul 2011,5.57,K,0.15,K,599,K,21.0,K,73.2, ,60.4,K,66.2,K,99,K,80,K,95,L,64.0,L,3.8,K,71.4,K
+99,Santa Monica,Los Angeles Basin,Aug 2011,5.20,K,0.33, ,563, ,18.2, ,73.3, ,59.5, ,65.7, ,93, ,73, ,84, ,60.7, ,3.3,K,71.2, 
+99,Santa Monica,Los Angeles Basin,Sep 2011,3.59,K,0.18, ,421, ,17.9, ,73.0,K,59.2, ,65.1, ,93, ,74, ,85, ,60.3, ,3.2,K,69.8, 
+99,Santa Monica,Los Angeles Basin,Oct 2011,3.29,K,1.58, ,365, ,14.7, ,72.4,K,55.8,K,63.4,K,90,K,60,K,75, ,54.5, ,3.0,K,65.8, 
+99,Santa Monica,Los Angeles Basin,Nov 2011,2.30,K,1.66, ,258, ,10.6, ,67.6,K,52.0,K,58.9, ,81, ,50, ,65, ,45.3, ,3.3, ,58.7, 
+99,Santa Monica,Los Angeles Basin,Dec 2011,2.39,K,0.99, ,244, ,7.7, ,64.8,K,46.9, ,54.8, ,76, ,38, ,54, ,36.7, ,3.2,K,53.3, 
+99,Santa Monica,Los Angeles Basin,Jan 2012,2.77,K,1.37, ,269, ,8.7,K,69.9,K,50.2,K,59.4,K,76,K,38,K,54,K,39.7,K,3.2, ,55.8, 
+99,Santa Monica,Los Angeles Basin,Feb 2012,2.56,K,0.14,L,348,L,11.4,L,63.9,L,45.7,L,55.3,L,93,L,59,L,77,L,47.6,L,3.7,L,57.0,L
+99,Santa Monica,Los Angeles Basin,Mar 2012,3.46,K,2.20, ,410,K,11.1,K,64.0,K,47.8,K,55.7, ,91, ,59, ,76,K,46.2,K,3.5,K,58.7,K
+99,Santa Monica,Los Angeles Basin,Apr 2012,4.46,K,1.60,K,524,K,13.2,K,67.2, ,50.6, ,58.6, ,94, ,64, ,80,K,51.2,K,3.6,K,63.3, 
+99,Santa Monica,Los Angeles Basin,May 2012,5.37,K,0.00, ,609, ,16.7,K,67.6, ,54.5, ,61.1, ,99, ,80, ,91,K,58.4,K,3.3,K,68.0, 
+99,Santa Monica,Los Angeles Basin,Jun 2012,5.09,K,0.05, ,590, ,18.0, ,69.1, ,57.3,K,63.1, ,99, ,81, ,91, ,60.5, ,3.4,K,69.8, 
+99,Santa Monica,Los Angeles Basin,Jul 2012,5.26,K,0.24, ,587, ,19.4,K,71.3,K,58.3, ,64.3, ,100, ,83, ,94,K,62.5,K,3.0,K,70.5,K
+99,Santa Monica,Los Angeles Basin,Aug 2012,5.87,K,0.20, ,572, ,19.3,K,78.4, ,62.2,K,69.8, ,90, ,64, ,78,K,62.4,K,3.6,K,72.9, 
+99,Santa Monica,Los Angeles Basin,Sep 2012,4.73,K,0.25, ,484, ,18.0, ,79.8,K,62.3,K,70.2,K,85,K,58,K,72, ,60.3, ,3.6, ,71.8, 
+99,Santa Monica,Los Angeles Basin,Oct 2012,3.61,K,0.09, ,369, ,14.4, ,76.2,K,58.3, ,66.9,K,80,K,52,K,65, ,53.5, ,3.1,K,66.8, 
+99,Santa Monica,Los Angeles Basin,Nov 2012,2.06,K,1.16, ,261,K,11.8, ,69.4,K,51.8,K,60.5,K,80,K,55,K,67, ,47.7, ,1.7,K,60.8, 
+99,Santa Monica,Los Angeles Basin,Dec 2012,1.66,K,2.67,K,205, ,10.5,K,62.4,K,48.1,K,54.9, ,81, ,56, ,70,K,44.5,K,3.4,K,57.5,K
+99,Santa Monica,Los Angeles Basin,Jan 2013,2.76, ,1.32, ,274, ,6.7,K,65.8,K,48.0, ,56.1, ,61, ,32, ,44,K,32.0,K,4.0,K,52.6,K
+99,Santa Monica,Los Angeles Basin,Feb 2013,2.88, ,0.03, ,346, ,8.2, ,64.3,K,46.6, ,55.1, ,74, ,43, ,57, ,38.7, ,3.9,K,56.0, 
+99,Santa Monica,Los Angeles Basin,Mar 2013,3.53, ,0.75,K,414, ,11.8,K,65.0,K,50.5, ,56.8, ,85, ,64, ,76,K,48.5,K,3.7, ,61.1, 
+99,Santa Monica,Los Angeles Basin,Apr 2013,4.71, ,0.22, ,519, ,12.0,K,67.1, ,53.2, ,59.6, ,82, ,57, ,70,K,48.7,K,4.3, ,64.1, 
+99,Santa Monica,Los Angeles Basin,May 2013,5.70,K,0.79, ,592, ,14.7,K,69.6,K,56.4,K,63.5,K,86,K,64,K,76,L,55.3,L,4.2,K,67.9, 
+99,Santa Monica,Los Angeles Basin,Jun 2013,4.87,K,0.58,K,531, ,16.7,K,71.1,K,59.4,K,64.7,K,87,K,72,K,80,K,58.4,K,4.0,K,68.6, 
+99,Santa Monica,Los Angeles Basin,Jul 2013,5.10,K,0.62, ,536, ,18.0, ,73.1,K,60.9, ,66.1,K,88,K,74,K,82, ,60.4, ,3.6,K,70.9,K
+99,Santa Monica,Los Angeles Basin,Aug 2013,5.58,K,0.23, ,570,K,17.3, ,74.2,K,60.1,K,66.4,K,88,K,68,K,79, ,59.4, ,3.7,K,70.5,K
+99,Santa Monica,Los Angeles Basin,Sep 2013,4.80, ,0.00, ,491, ,16.7,K,76.8, ,60.5, ,67.7, ,86, ,58, ,74,L,59.0,L,3.5,K,69.6,K
+99,Santa Monica,Los Angeles Basin,Oct 2013,3.71, ,0.00, ,375,K,12.6, ,72.3,K,53.9, ,63.0, ,82, ,51, ,66, ,49.9, ,3.7,K,63.9,K
+99,Santa Monica,Los Angeles Basin,Nov 2013,2.58,K,0.00, ,268, ,10.8, ,72.3,K,53.2,K,62.1,K,77,K,44,K,59, ,46.1, ,3.4,K,61.2, 
+99,Santa Monica,Los Angeles Basin,Dec 2013,2.67,K,0.00, ,251, ,7.3, ,69.6,K,48.8,K,58.6,K,68,K,30,K,45, ,35.0, ,3.7, ,56.0, 
+99,Santa Monica,Los Angeles Basin,Jan 2014,2.70,K,0.00, ,260, ,8.6,K,71.8,K,50.8,K,61.1,K,74,K,35,K,50,K,39.2,K,3.2, ,57.3, 
+99,Santa Monica,Los Angeles Basin,Feb 2014,2.59, ,0.00, ,325, ,11.2, ,67.2,K,50.6, ,57.8, ,84, ,52, ,69, ,47.0, ,3.8,K,59.1, 
+99,Santa Monica,Los Angeles Basin,Mar 2014,4.08,K,0.04,K,450,K,12.4,K,69.0,K,52.4,K,60.4,K,84,K,56,K,71,K,50.0,K,3.9,K,62.4,K
+99,Santa Monica,Los Angeles Basin,Apr 2014,5.35,K,0.17, ,579, ,12.0,K,70.1,K,52.5,K,61.1,K,83,K,53,K,67,K,49.0,K,4.3, ,63.9, 
+99,Santa Monica,Los Angeles Basin,May 2014,5.94,K,0.00, ,636, ,12.9,K,70.4,K,56.7,K,66.6,K,81,K,51,K,72,L,54.0,L,4.5,K,67.3, 
+99,Santa Monica,Los Angeles Basin,Jun 2014,5.78, ,0.00, ,623, ,17.0, ,71.5, ,58.7, ,64.9, ,89, ,72, ,81, ,58.9, ,4.2, ,70.3, 
+99,Santa Monica,Los Angeles Basin,Jul 2014,5.84, ,0.00, ,583, ,19.8, ,76.9,K,63.6, ,69.4,K,89, ,70, ,81,K,63.2,K,4.0, ,72.3, 
+99,Santa Monica,Los Angeles Basin,Aug 2014,5.79, ,0.01, ,573, ,19.5,K,76.8, ,62.3,K,69.2, ,88, ,70, ,80,K,62.8,K,3.8,K,72.3, 
+99,Santa Monica,Los Angeles Basin,Sep 2014,4.95,K,0.00, ,502, ,19.6, ,79.1,L,63.2,L,70.4,L,88,K,62,K,77,L,62.7,L,3.8, ,71.3, 
+99,Santa Monica,Los Angeles Basin,Oct 2014,3.96,K,0.33, ,394, ,16.1,K,78.2,K,59.8,L,68.2,K,85, ,56, ,70,K,57.1,K,3.7, ,66.9, 
+99,Santa Monica,Los Angeles Basin,Nov 2014,3.10,K,0.31, ,295, ,10.5, ,74.8,K,55.3,K,64.9,K,72, ,39, ,52,K,44.0,K,3.8,K,61.4, 
+99,Santa Monica,Los Angeles Basin,Dec 2014,1.84, ,3.46, ,209, ,11.6,K,66.1, ,51.6, ,58.1,K,82, ,55, ,69,K,47.0,K,3.7,K,58.7, 
+99,Santa Monica,Los Angeles Basin,Jan 2015,2.58, ,1.47, ,258, ,10.1, ,71.0,K,52.2,K,60.7,K,74, ,43, ,58,K,43.9,K,3.5, ,57.5, 
+99,Santa Monica,Los Angeles Basin,Feb 2015,2.88,K,0.65, ,349, ,12.0,K,70.3,K,52.8,K,60.8,K,82,K,55,K,70,L,49.5,L,3.6, ,61.3, 
+99,Santa Monica,Los Angeles Basin,Mar 2015,4.68,K,1.50, ,467, ,12.2, ,74.4,K,55.0,K,63.0,L,77,K,48,K,68,L,50.1,L,3.9, ,63.2, 
+99,Santa Monica,Los Angeles Basin,Apr 2015,5.31, ,0.28, ,565, ,11.9,K,70.7,K,53.1, ,61.6,K,84, ,48, ,65,K,48.6,K,4.2, ,64.1, 
+99,Santa Monica,Los Angeles Basin,May 2015,4.94, ,0.52, ,543, ,13.8, ,67.3, ,54.0, ,60.0, ,86, ,67, ,78, ,53.0, ,4.0, ,65.6, 
+99,Santa Monica,Los Angeles Basin,Jun 2015,5.16,K,0.07, ,556, ,17.4, ,72.7,L,59.4, ,65.2,L,88,K,72,K,82,L,59.4,L,3.8, ,69.6, 
+99,Santa Monica,Los Angeles Basin,Jul 2015,5.59,K,0.18, ,567, ,19.6,K,76.5,K,63.4,K,68.9,K,88,K,71,K,81,L,62.6,L,4.0, ,73.3, 
+99,Santa Monica,Los Angeles Basin,Aug 2015,5.94,K,0.00, ,570, ,20.3,K,80.3,K,64.8,K,71.6,K,87,K,65,K,77,K,63.9,K,3.7,K,75.8, 
+99,Santa Monica,Los Angeles Basin,Sep 2015,4.98,K,2.03, ,489, ,20.5,K,82.8,K,66.3,K,73.4,K,85,K,60,K,74,L,64.1,L,3.6, ,75.8, 
+99,Santa Monica,Los Angeles Basin,Oct 2015,4.13,K,0.00, ,382, ,17.7,K,82.1,K,63.7,L,71.9,L,82,K,52,K,68,L,59.6,L,3.8,K,70.3, 
+99,Santa Monica,Los Angeles Basin,Nov 2015,3.25,K,0.09, ,321, ,8.6, ,72.2,K,52.0,K,61.6,K,71, ,32, ,47,K,39.5,K,4.0,K,59.3, 
+99,Santa Monica,Los Angeles Basin,Dec 2015,2.56, ,0.87, ,254, ,7.7, ,66.6,K,47.6, ,56.6,K,72,K,35,K,50,K,36.8,K,4.1,K,54.9, 
+99,Santa Monica,Los Angeles Basin,Jan 2016,2.00, ,2.67, ,228, ,10.4, ,64.8, ,49.7, ,56.4, ,81, ,53, ,67, ,44.5, ,3.5,K,56.7, 
+99,Santa Monica,Los Angeles Basin,Feb 2016,3.74,K,0.58, ,388, ,9.3,K,75.3,K,54.4,K,63.7,K,66,K,35,K,52,L,41.8,L,3.8,K,60.5, 
+99,Santa Monica,Los Angeles Basin,Mar 2016,4.07,K,1.76, ,453, ,12.6, ,67.7,K,52.4, ,59.4,K,86, ,59, ,74,K,50.5,K,4.2,K,63.2, 
+99,Santa Monica,Los Angeles Basin,Apr 2016,5.26,K,0.23, ,555, ,12.6, ,71.0,K,54.3,K,62.3,K,84, ,52, ,68,K,50.2,K,4.3,K,65.7, 
+99,Santa Monica,Los Angeles Basin,May 2016,5.03,K,0.10,L,532,L,14.2,L,66.4,L,53.3,L,59.6,L,88,L,72,L,81,L,53.8,L,4.4,L,66.3,L
+99,Santa Monica,Los Angeles Basin,Jun 2016,5.05,K,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+99,Santa Monica,Los Angeles Basin,Jul 2016,6.08,K,0.06,L,638,L,20.2,L,78.2,L,63.1,L,70.1,L,88,L,70,L,81,L,63.8,L,4.2,L,73.1,L
+99,Santa Monica,Los Angeles Basin,Aug 2016,5.84, ,0.07, ,592, ,19.6, ,75.7, ,61.3, ,68.0, ,89, ,73, ,84, ,62.9, ,4.0,K,72.2, 
+99,Santa Monica,Los Angeles Basin,Sep 2016,4.88,K,0.02,L,507,K,17.4,L,77.5,K,60.8,K,69.0,K,84,K,60,K,76,L,59.9,L,4.0,L,69.3,K
+99,Santa Monica,Los Angeles Basin,Oct 2016,3.77,K,0.14,L,380,K,14.4,L,75.4,L,58.4,L,65.7,L,87,L,51,L,70,L,54.4,L,3.4,K,64.9,L
+99,Santa Monica,Los Angeles Basin,Nov 2016,3.21,K,1.05, ,328,K,9.6,K,74.4,K,55.5,K,64.2,K,71,K,31,K,50,L,42.1,L,3.9, ,59.5, 
+99,Santa Monica,Los Angeles Basin,Dec 2016,2.17, ,4.02, ,235,K,9.2, ,65.7,K,50.4,K,57.4,K,76, ,43, ,59,K,39.4,K,3.8,K,54.6, 
+99,Santa Monica,Los Angeles Basin,Jan 2017,1.99,K,6.67,L,249,L,9.7,L,63.1,L,48.7,L,55.4,L,81,L,51,L,67,L,42.6,L,3.7,L,53.0,L
+99,Santa Monica,Los Angeles Basin,Feb 2017,1.92, ,5.14,K,278,K,12.2,K,63.1, ,50.6, ,56.1,K,92,K,62,K,79,K,48.8,K,3.5,K,57.0,K
+99,Santa Monica,Los Angeles Basin,Mar 2017,4.56, ,0.28, ,504,K,11.1,K,69.9,K,51.4,K,60.1,K,84, ,46, ,64,K,46.1,K,3.7,K,60.3, 
+99,Santa Monica,Los Angeles Basin,Apr 2017,5.81,K,0.24, ,610,K,11.7,K,71.1, ,54.0,K,62.3,K,84,K,43,K,65,L,49.3,L,4.3,K,62.9, 
+99,Santa Monica,Los Angeles Basin,May 2017,5.18,K,0.11, ,575,K,13.8, ,68.1,L,54.1,K,61.0,K,94,K,61,K,76,K,52.9,K,3.8, ,64.1,K
+99,Santa Monica,Los Angeles Basin,Jun 2017,5.48, ,0.09, ,608,K,17.0,K,72.0,K,58.4, ,64.5,K,97, ,67, ,82,K,58.8,K,3.6, ,68.2, 
+99,Santa Monica,Los Angeles Basin,Jul 2017,6.30,K,0.01, ,638, ,19.8, ,76.4,L,62.3,K,68.7,L,96,K,69,K,83,L,63.1,L,3.7, ,72.1, 
+99,Santa Monica,Los Angeles Basin,Aug 2017,5.71,K,0.03, ,575, ,20.1, ,76.8,K,63.5,K,69.3,K,96,K,69,K,82,K,63.6,K,3.5, ,72.2, 
+99,Santa Monica,Los Angeles Basin,Sep 2017,4.81,K,0.08, ,502,K,18.0,K,78.1,K,62.0,K,69.3,K,91,K,58,K,76,L,60.4,L,3.4, ,69.9, 
+99,Santa Monica,Los Angeles Basin,Oct 2017,4.18,K,0.00, ,421,K,13.0,K,79.5,K,58.7,L,67.7,L,80,K,40,K,61,L,51.9,L,3.2, ,65.4, 
+99,Santa Monica,Los Angeles Basin,Nov 2017,2.70,K,0.33,L,311,L,12.1,L,73.6,L,55.5,L,63.6,L,84,L,43,L,65,L,49.5,L,2.9,L,61.3,L
+99,Santa Monica,Los Angeles Basin,Dec 2017,2.95,K,0.01, ,288,K,6.3, ,72.1,K,49.9,K,61.0,K,63,K,21,K,38,L,30.6,L,3.4,K,55.2, 
+99,Santa Monica,Los Angeles Basin,Jan 2018,2.63,K,1.47, ,274,K,9.6,K,71.2,K,52.1,K,61.2,K,74,K,36,K,56,L,41.9,L,3.3,K,57.3, 
+99,Santa Monica,Los Angeles Basin,Feb 2018,3.26, ,0.13, ,413,K,8.3,K,66.8, ,48.4, ,56.8, ,81, ,33, ,52,K,38.4,K,3.7,K,57.1, 
+99,Santa Monica,Los Angeles Basin,Mar 2018,3.68,K,4.41,L,421,L,10.7,L,65.3,L,50.3,L,57.1,L,86,L,51,L,68,L,44.8,L,3.6,L,58.8,L
+99,Santa Monica,Los Angeles Basin,Apr 2018,5.10,K,0.00, ,583,K,11.9,K,68.5,K,52.1, ,59.5,K,89, ,52, ,70,K,48.5,K,4.0,K,63.4, 
+99,Santa Monica,Los Angeles Basin,May 2018,4.80,K,0.07, ,530, ,13.9, ,67.7,K,54.5, ,60.5, ,92, ,63, ,77, ,53.3, ,3.8, ,65.3, 
+99,Santa Monica,Los Angeles Basin,Jun 2018,5.62,K,0.00, ,620, ,16.2, ,71.0,K,58.0, ,64.0, ,94, ,66, ,80, ,57.5, ,3.8, ,68.2, 
+99,Santa Monica,Los Angeles Basin,Jul 2018,6.37,K,0.01, ,650,K,20.1, ,77.8,L,64.8,L,70.5,L,94,K,64,K,81,L,63.9,L,4.0, ,72.8, 
+99,Santa Monica,Los Angeles Basin,Aug 2018,6.19,K,0.00, ,604,K,20.3,K,79.7,K,64.5,K,71.3,K,93,K,62,K,78,K,63.8,K,3.9,K,73.3, 
+99,Santa Monica,Los Angeles Basin,Sep 2018,4.41,K,0.00, ,488,K,18.2, ,74.6, ,61.0, ,66.9, ,94, ,66, ,81, ,60.7, ,3.6, ,70.1, 
+99,Santa Monica,Los Angeles Basin,Oct 2018,3.88,K,0.02,K,407,K,14.8,K,74.7, ,58.4, ,65.6, ,90, ,53, ,70,K,53.8,K,3.6,K,65.9, 
+99,Santa Monica,Los Angeles Basin,Nov 2018,2.99, ,2.01,K,316,K,10.4,K,73.3, ,54.1, ,63.1, ,78, ,35, ,55,K,42.6,K,3.5, ,61.6, 
+99,Santa Monica,Los Angeles Basin,Dec 2018,2.32,K,0.20,K,260,K,9.3, ,66.8, ,50.8, ,57.5, ,79, ,39, ,58, ,41.3, ,4.0,K,58.3, 
+99,Santa Monica,Los Angeles Basin,Jan 2019,2.11, ,3.29,K,248,K,9.8,K,65.4, ,50.2, ,57.0, ,79, ,47, ,63,K,41.7,K,3.7,K,57.3, 
+99,Santa Monica,Los Angeles Basin,Feb 2019,2.23, ,4.32,K,312,K,9.0,K,60.0, ,45.7, ,52.1, ,83, ,49, ,66,K,40.2,K,4.2, ,56.7, 
+99,Santa Monica,Los Angeles Basin,Mar 2019,4.16,K,2.87,K,461,K,10.5,K,66.3, ,51.4,K,58.4,K,82, ,51, ,66,K,44.7,K,4.1,K,61.7, 
+99,Santa Monica,Los Angeles Basin,Apr 2019,4.66, ,0.04, ,522,K,12.9,K,68.2, ,53.9, ,60.1,K,92, ,57, ,74,K,50.9,K,4.3,K,65.6, 
+99,Santa Monica,Los Angeles Basin,May 2019,4.55,K,1.72,K,513, ,13.8,K,65.8,K,53.5,K,59.3,K,95, ,64, ,80,K,53.0,K,4.2, ,66.1, 
+99,Santa Monica,Los Angeles Basin,Jun 2019,4.43,K,0.01,L,555,L,17.0,L,69.8,L,59.3,L,63.7,L,97,L,71,L,85,L,58.9,L,3.9,L,68.8,L
+99,Santa Monica,Los Angeles Basin,Jul 2019,5.96,K,0.00, ,614, ,18.6, ,75.1,K,60.8, ,67.2,K,98, ,67, ,82,K,61.4,K,3.7, ,70.5, 
+99,Santa Monica,Los Angeles Basin,Aug 2019,5.95,K,0.00, ,610, ,19.5, ,76.0, ,61.4, ,67.9, ,99, ,69, ,84, ,62.7, ,3.3, ,71.1, 
+99,Santa Monica,Los Angeles Basin,Sep 2019,4.79,K,0.04,K,504,L,19.0,L,78.2,L,61.2,L,68.9,L,97,K,60,K,79,L,61.9,L,3.3,K,70.4,L
+99,Santa Monica,Los Angeles Basin,Oct 2019,4.57,K,0.00, ,448,K,10.9,K,78.2,K,57.4,K,67.1,K,77,K,30,K,55,L,47.4,L,3.4,K,64.8, 
+99,Santa Monica,Los Angeles Basin,Nov 2019,2.67,K,1.16,K,300,K,10.8,K,70.7,K,52.8,K,60.7,K,85, ,42, ,62,K,45.3,K,3.3, ,61.0, 
+99,Santa Monica,Los Angeles Basin,Dec 2019,1.99, ,2.31,K,221, ,9.5, ,65.0, ,50.1, ,56.8, ,78, ,44, ,61, ,41.1, ,3.5,K,57.0, 
+99,Santa Monica,Los Angeles Basin,Jan 2020,2.61, ,0.02,K,288,K,9.3, ,67.1, ,50.0, ,57.7, ,80, ,42, ,59, ,41.6, ,3.6,K,57.2, 
+99,Santa Monica,Los Angeles Basin,Feb 2020,3.41,K,0.00, ,392,K,9.1,K,67.7,K,50.2,K,58.1,K,77, ,38, ,57,K,39.9,K,3.9,K,58.6, 
+99,Santa Monica,Los Angeles Basin,Mar 2020,3.53,K,3.28,K,416,K,11.4, ,63.9, ,49.3, ,56.1, ,93, ,56, ,74, ,47.4, ,3.7,K,59.9, 
+99,Santa Monica,Los Angeles Basin,Apr 2020,4.33,K,2.03,K,506,K,13.7,K,68.0,K,53.9,K,60.4,K,94,K,60,K,77,K,52.7,K,3.9, ,64.3, 
+99,Santa Monica,Los Angeles Basin,May 2020,6.01,K,0.16, ,644,K,15.6, ,71.2,K,56.4,K,63.4,K,94, ,62, ,79,K,56.4,K,4.0, ,68.8, 
+99,Santa Monica,Los Angeles Basin,Jun 2020,5.43,K,0.00, ,601,K,15.7,K,72.2,L,59.7,L,65.0,L,92,L,62,L,80,L,58.5,L,4.2,K,69.1, 
+99,Santa Monica,Los Angeles Basin,Jul 2020,6.28,K,0.00, ,659, ,17.9, ,74.1,K,59.2, ,65.9, ,97, ,67, ,83, ,60.3, ,3.6, ,70.1, 
+99,Santa Monica,Los Angeles Basin,Aug 2020,5.87,K,0.00, ,587, ,20.0,K,78.3,L,63.0,K,69.7,K,98,K,63,K,81,L,63.1,L,3.3,K,71.0, 
+99,Santa Monica,Los Angeles Basin,Sep 2020,4.72,K,0.00, ,486, ,17.8,K,80.4,K,61.8,K,69.4,L,94,K,53,K,74,L,60.0,L,3.1,K,68.5, 
+99,Santa Monica,Los Angeles Basin,Oct 2020,3.85,K,0.00,K,380,K,15.6,K,78.7,K,60.3, ,68.2,K,92, ,47, ,67,K,55.2,K,3.1,K,66.1, 
+99,Santa Monica,Los Angeles Basin,Nov 2020,2.77,K,0.04, ,317,K,10.1, ,70.5,K,51.3,K,59.9,K,82,K,41,K,59,K,43.0,K,3.1, ,58.6, 
+99,Santa Monica,Los Angeles Basin,Dec 2020,2.68, ,1.74, ,258,K,6.9, ,69.4,K,50.9,K,59.1,K,68, ,25, ,43,K,33.1,K,3.6,K,50.8,K
+99,Santa Monica,Los Angeles Basin,Jan 2021,2.67,K,1.64, ,280,K,7.9, ,68.4,K,50.0,K,58.3,K,74,K,34,K,53,L,37.7,L,3.5, ,50.9,K
+99,Santa Monica,Los Angeles Basin,Feb 2021,3.40,K,0.01, ,398,K,8.1,K,67.6,K,49.6, ,58.0,K,79, ,33, ,51,K,37.6,K,4.1,K,52.8, 
+99,Santa Monica,Los Angeles Basin,Mar 2021,4.44,K,1.07,K,500,K,8.7,K,65.7,K,47.5, ,56.0,K,81, ,39, ,59,K,39.8,K,4.0,K,54.3,K
+99,Santa Monica,Los Angeles Basin,Apr 2021,5.10,K,0.00, ,574,K,11.5,K,68.6,K,52.3, ,59.7,K,86, ,52, ,68,K,47.9,K,3.8, ,61.4, 
+99,Santa Monica,Los Angeles Basin,May 2021,5.20,K,0.00, ,572, ,13.9,K,67.9,K,55.0, ,60.7,K,89,K,62,K,76,K,53.2,K,3.8, ,66.1, 
+99,Santa Monica,Los Angeles Basin,Jun 2021,5.72,K,0.00, ,629,K,16.5,K,71.1,K,59.2,K,64.5,K,91,K,66,K,79,K,57.8,K,3.5, ,69.1, 
+99,Santa Monica,Los Angeles Basin,Jul 2021,6.08,K,0.14, ,626, ,19.2, ,75.0, ,62.7, ,67.8, ,95, ,69, ,83, ,62.4, ,3.4, ,71.7, 
+99,Santa Monica,Los Angeles Basin,Aug 2021,5.70, ,0.03, ,571, ,18.1, ,76.9,K,61.7, ,68.1, ,93, ,59, ,77, ,60.7, ,3.5, ,71.0, 
+99,Santa Monica,Los Angeles Basin,Sep 2021,4.46, ,0.00, ,490,K,17.2,K,75.3, ,59.9, ,66.1, ,93, ,61, ,79,K,59.2,K,3.2,K,68.2, 
+99,Santa Monica,Los Angeles Basin,Oct 2021,3.86,K,0.80,K,399,K,12.1,K,73.9,K,56.1, ,64.2, ,82, ,43, ,61,K,48.3,K,3.5, ,60.7,K
+99,Santa Monica,Los Angeles Basin,Nov 2021,2.70,K,0.02, ,304,K,11.0,K,71.6,K,54.7,K,62.3,K,80, ,46, ,62,K,44.7,K,3.2,K,57.1,K
+99,Santa Monica,Los Angeles Basin,Dec 2021,1.40,K,8.70, ,209,K,10.3, ,61.3, ,47.3, ,53.5, ,89, ,55, ,74, ,44.6, ,2.4,K,51.4, 
+99,Santa Monica,Los Angeles Basin,Jan 2022,2.76, ,0.09, ,278,K,7.5,K,68.8, ,51.3, ,58.9, ,68, ,30, ,46,K,35.0,K,3.5,K,51.7,K
+99,Santa Monica,Los Angeles Basin,Feb 2022,3.64,K,0.06, ,420,K,6.0,K,70.0,K,50.6,K,60.1,K,59,K,23,K,37,L,30.0,L,4.1, ,52.8,K
+99,Santa Monica,Los Angeles Basin,Mar 2022,4.85,K,0.96, ,506,K,4.6,K,69.2,K,51.3, ,59.5,K,53,K,12,K,44,L,34.7,L,4.0, ,56.8, 
+99,Santa Monica,Los Angeles Basin,Apr 2022,5.53,K,0.48, ,615,K,8.5,K,69.2,L,53.4,L,60.4,L,69,K,35,K,62,L,45.9,L,4.4,K,62.8, 
+99,Santa Monica,Los Angeles Basin,May 2022,5.78,K,0.00, ,617,K,12.6,K,68.3,K,54.5, ,61.0,K,84,K,57,K,72,L,51.3,L,4.1, ,65.6, 
+99,Santa Monica,Los Angeles Basin,Jun 2022,5.91,K,0.01,K,635,K,16.5,K,72.9,K,59.4, ,65.4,K,90, ,65, ,77,K,58.0,K,4.0, ,68.8, 
+99,Santa Monica,Los Angeles Basin,Jul 2022,6.10,K,0.00, ,632, ,17.4, ,74.0,K,60.7, ,66.3, ,90, ,66, ,79, ,59.5, ,3.9, ,69.9, 
+99,Santa Monica,Los Angeles Basin,Aug 2022,6.23,K,0.00, ,607, ,17.5,K,78.3,K,62.9,K,69.6,K,85,K,57,K,71,K,59.7,K,3.6, ,70.6, 
+99,Santa Monica,Los Angeles Basin,Sep 2022,5.12,K,0.39, ,500,K,18.4,K,82.7,K,65.6,K,73.1,K,83,K,51,K,68,L,60.9,L,3.7,K,70.7, 
+99,Santa Monica,Los Angeles Basin,Oct 2022,3.54, ,0.09, ,373,K,15.1, ,74.0,K,60.0,K,65.9,K,84, ,54, ,70,K,54.9,K,3.5, ,66.2, 
+99,Santa Monica,Los Angeles Basin,Nov 2022,2.94, ,1.61,K,326,K,7.7,K,69.0, ,50.8, ,59.0, ,67, ,32, ,47,K,35.2,K,3.7, ,55.2,K
+99,Santa Monica,Los Angeles Basin,Dec 2022,1.82, ,3.69, ,228, ,9.4,K,64.0,K,49.3,K,55.8,K,80, ,47, ,63,K,41.9,K,3.2, ,51.2, 
+99,Santa Monica,Los Angeles Basin,Jan 2023,2.06, ,10.09,K,241,K,8.8,K,61.9, ,48.1, ,54.4,K,77,K,46,K,62,K,39.8,K,4.1,K,49.2,K
+99,Santa Monica,Los Angeles Basin,Feb 2023,2.86, ,3.37,K,354,K,6.9,K,62.6, ,46.6, ,54.0,K,68, ,35, ,51,K,33.4,K,4.3,K,47.6,K
+99,Santa Monica,Los Angeles Basin,Mar 2023,3.33, ,8.07,K,398,K,9.6,K,60.9, ,47.8, ,53.8, ,84, ,54, ,69,K,42.6,K,4.3,K,50.2,L
+99,Santa Monica,Los Angeles Basin,Apr 2023,4.42, ,0.11,K,513,K,10.9,K,64.4, ,51.7,K,57.4,K,83, ,56, ,69,K,46.0,K,3.8,K,55.3,L
+99,Santa Monica,Los Angeles Basin,May 2023,4.13, ,0.67, ,472, ,13.3, ,65.0, ,54.4,K,59.0, ,88, ,65, ,77, ,51.9, ,3.9, ,59.0,K
+99,Santa Monica,Los Angeles Basin,Jun 2023,4.63, ,0.02, ,521, ,14.4,K,68.3, ,56.8, ,61.8, ,87, ,63, ,76,K,54.2,K,3.9, ,61.4,K
+99,Santa Monica,Los Angeles Basin,Jul 2023,6.45, ,0.00, ,658,K,17.5,K,75.9,K,60.8, ,67.2,K,90, ,61, ,77,K,59.6,K,3.6, ,66.0,K
+99,Santa Monica,Los Angeles Basin,Aug 2023,5.74, ,3.82,K,580,K,18.4, ,77.1, ,62.9,K,69.0,K,89,K,62,K,76, ,61.0, ,3.7,K,66.8,K
+99,Santa Monica,Los Angeles Basin,Sep 2023,4.05, ,0.06, ,438,K,17.1, ,74.8, ,61.6, ,67.3, ,87, ,62, ,75, ,59.0, ,3.5,K,65.5,K
+99,Santa Monica,Los Angeles Basin,Oct 2023,4.11, ,0.01,K,435,K,13.7,K,75.4, ,57.5, ,65.8, ,81, ,49, ,65,K,51.2,K,3.5,K,61.8,K
+99,Santa Monica,Los Angeles Basin,Nov 2023,3.33, ,0.33, ,336,K,8.3,K,74.0, ,55.6, ,63.5, ,63, ,26, ,43,K,37.0,K,3.7,K,54.3,K
+99,Santa Monica,Los Angeles Basin,Dec 2023,2.21, ,2.60,K,245,K,9.7,K,68.5,K,53.1,K,59.8,K,74, ,42, ,57,K,41.9,K,3.4, ,53.0, 
+99,Santa Monica,Los Angeles Basin,Jan 2024,2.72,K,0.21,K,492,L,6.9,L,66.4,L,50.6,L,57.5,L,71,L,35,L,51,L,38.4,L,2.9,K,53.9,L
+99,Santa Monica,Los Angeles Basin,Feb 2024,2.22, ,15.83,K,299,K,10.6, ,62.5, ,49.4, ,55.1, ,84, ,57, ,72, ,45.5, ,3.6, ,56.9, 
+99,Santa Monica,Los Angeles Basin,Mar 2024,4.02, ,5.65, ,473,K,10.8,K,63.9, ,49.3, ,56.1, ,86, ,54, ,70,K,46.2,K,4.2,K,59.5, 
+99,Santa Monica,Los Angeles Basin,Apr 2024,4.64, ,0.60,K,551,K,11.4, ,65.3, ,50.3, ,57.4, ,86, ,55, ,71, ,47.6, ,3.9, ,61.9, 
+204,Santa Clarita,Los Angeles Basin,May 2010,8.07,K,0.06, ,617, ,10.1,K,85.2,K,56.2,K,70.7,K,63,K,25,K,40,K,44.1,K,6.0,K,63.3,K
+204,Santa Clarita,Los Angeles Basin,Jun 2010,8.67,K,0.05, ,679,K,15.9,K,92.7,K,62.8,K,77.3,K,75,K,30,K,50, ,56.9, ,5.7,K,69.7,K
+204,Santa Clarita,Los Angeles Basin,Jul 2010,8.52,K,0.02,K,658,K,16.0,K,94.7,K,61.8,K,78.9,K,74,K,28,K,49, ,57.0, ,5.1,K,74.3,K
+204,Santa Clarita,Los Angeles Basin,Aug 2010,8.84,K,0.06, ,632,K,11.1,K,92.9,K,61.5,K,76.8,K,63,K,19,K,37,K,46.9,K,5.4,K,69.9,K
+204,Santa Clarita,Los Angeles Basin,Sep 2010,6.73,K,0.05,K,529,K,10.5,K,91.9,K,59.7,K,75.0,K,60,K,22,K,38,K,45.4,K,5.1, ,67.6,K
+204,Santa Clarita,Los Angeles Basin,Oct 2010,3.74, ,1.44, ,308, ,10.9, ,75.7,K,54.4,K,63.6, ,76, ,38, ,56, ,45.4, ,4.9,K,64.9,K
+204,Santa Clarita,Los Angeles Basin,Nov 2010,3.67,K,0.65, ,302,K,6.0, ,68.2,K,44.7,K,56.6,K,63,K,26,K,41, ,29.5, ,6.2, ,55.8,K
+204,Santa Clarita,Los Angeles Basin,Dec 2010,1.91, ,0.88, ,206,K,8.2,K,63.5,K,44.3,K,53.2, ,77, ,43, ,60,K,37.6,K,3.5,K,51.9,K
+204,Santa Clarita,Los Angeles Basin,Jan 2011,3.47,K,0.56, ,265, ,5.4, ,66.1,K,43.5, ,54.2,K,59,K,26,K,40, ,27.8, ,6.2, ,49.1,K
+204,Santa Clarita,Los Angeles Basin,Feb 2011,3.19, ,2.03,K,352,K,5.8,K,62.3,K,38.3,K,50.5, ,68, ,31, ,49,K,28.5,K,6.1,K,49.1,K
+204,Santa Clarita,Los Angeles Basin,Mar 2011,4.20, ,3.23, ,389, ,8.1, ,68.1,K,43.4,K,55.0,K,80,K,35,K,56, ,38.6, ,5.6,K,54.5,K
+204,Santa Clarita,Los Angeles Basin,Apr 2011,5.48, ,0.09, ,507, ,8.8,K,72.2,K,47.2,K,58.9, ,75, ,34, ,53,K,39.8,K,5.5,K,59.5,K
+204,Santa Clarita,Los Angeles Basin,May 2011,6.69, ,0.41, ,591,K,9.0,K,74.2, ,47.9,K,61.1, ,75, ,33, ,53,L,42.4,L,5.8,K,62.8,K
+204,Santa Clarita,Los Angeles Basin,Jun 2011,7.04, ,0.02, ,633,K,12.0,K,79.8, ,52.9,K,65.9, ,81, ,35, ,57,L,49.4,L,5.3,K,66.8,K
+204,Santa Clarita,Los Angeles Basin,Jul 2011,8.32, ,0.00, ,653,K,13.4,K,89.6,K,60.6,K,74.1, ,73, ,27, ,47,K,52.0,K,5.1,K,73.9,K
+204,Santa Clarita,Los Angeles Basin,Aug 2011,8.53, ,0.00, ,627,K,11.5,K,93.1, ,60.7,K,76.2,K,64,K,20,K,39,L,48.4,L,5.0,K,70.2,K
+204,Santa Clarita,Los Angeles Basin,Sep 2011,6.37, ,0.01, ,510,K,11.9, ,89.3, ,58.8,K,72.9,K,73,K,25,K,45, ,48.7, ,4.8,K,67.8,K
+204,Santa Clarita,Los Angeles Basin,Oct 2011,4.87, ,0.37, ,395, ,8.9,K,82.6,K,52.1,K,65.9,K,66,K,24,K,42,K,39.6,K,4.7,K,62.9,K
+204,Santa Clarita,Los Angeles Basin,Nov 2011,3.08, ,1.41,K,271,K,6.8, ,67.5,K,43.3,K,55.3, ,69, ,31, ,49, ,33.0, ,5.7,K,54.5, 
+204,Santa Clarita,Los Angeles Basin,Dec 2011,3.37, ,0.78, ,267,K,4.1, ,64.6,K,38.2, ,51.7, ,54, ,21, ,33, ,19.7, ,6.3,K,48.4,K
+204,Santa Clarita,Los Angeles Basin,Jan 2012,3.82, ,0.48, ,285,K,4.5,K,70.0,K,43.8,K,56.3, ,51, ,19, ,32,K,22.0,K,6.4, ,49.9,K
+204,Santa Clarita,Los Angeles Basin,Feb 2012,3.79, ,0.09, ,349,K,5.5,K,67.0,K,40.9, ,53.8, ,65, ,23, ,41,K,28.4,K,6.3,K,50.7,K
+204,Santa Clarita,Los Angeles Basin,Mar 2012,4.61, ,1.90,K,439,K,7.0,K,67.1,K,41.6,K,54.0,K,73,K,31,K,55,L,35.5,L,6.0,K,53.0,K
+204,Santa Clarita,Los Angeles Basin,Apr 2012,5.78, ,0.60,L,533,K,8.5,K,74.1,K,46.4,K,59.9, ,75, ,31, ,49,K,38.6,K,5.7,L,58.4,K
+204,Santa Clarita,Los Angeles Basin,May 2012,7.86,K,0.00,K,621,K,9.8,K,82.3,K,52.0,K,67.4,K,71,K,27,K,45,K,43.3,K,6.1,K,64.6,K
+204,Santa Clarita,Los Angeles Basin,Jun 2012,8.21, ,0.00, ,697,K,11.3,K,84.7, ,54.2,K,68.8, ,76, ,27, ,49,L,47.6,L,5.6,K,68.1,K
+204,Santa Clarita,Los Angeles Basin,Jul 2012,8.61,K,0.00, ,655,K,11.4,K,90.3,K,59.0,K,74.2,K,68,K,21,K,43,L,48.9,L,5.4,K,72.6,K
+204,Santa Clarita,Los Angeles Basin,Aug 2012,8.71, ,0.01, ,598, ,12.5,K,96.0,K,66.5,K,80.3,K,58,K,21,K,37,K,49.9,K,5.0,K,72.8,K
+204,Santa Clarita,Los Angeles Basin,Sep 2012,6.86, ,0.01, ,511,K,10.5,K,93.1, ,62.7,K,77.0,K,54,K,19,K,34,K,44.7,K,4.9,K,71.1,K
+204,Santa Clarita,Los Angeles Basin,Oct 2012,4.96,K,0.18, ,391,K,9.2, ,81.4,K,53.3,K,66.9,K,65,K,27,K,43, ,40.8, ,5.5,K,64.4,K
+204,Santa Clarita,Los Angeles Basin,Nov 2012,3.12, ,0.66,K,274,K,7.8,K,72.2,K,46.9,K,58.9,K,68,K,31,K,48, ,35.3, ,5.1,K,57.7,K
+204,Santa Clarita,Los Angeles Basin,Dec 2012,1.97, ,0.87, ,209,K,7.4,K,60.9,K,40.6,K,50.1, ,79, ,39, ,59,K,34.6,K,4.9, ,53.0,K
+204,Santa Clarita,Los Angeles Basin,Jan 2013,3.50, ,0.96, ,266, ,4.4,K,62.6,K,40.2,K,51.3, ,54,K,22,K,35,K,20.3,K,6.5, ,49.0,K
+204,Santa Clarita,Los Angeles Basin,Feb 2013,3.69, ,0.29, ,365, ,5.1,K,65.9,K,38.6,K,51.8, ,65, ,23, ,41,K,25.8,K,5.8,K,50.6,K
+204,Santa Clarita,Los Angeles Basin,Mar 2013,5.29, ,0.67, ,463,K,7.2,K,75.0,K,45.2,K,60.0, ,67, ,25, ,43,K,35.0,K,5.5,K,55.3,K
+204,Santa Clarita,Los Angeles Basin,Apr 2013,6.54, ,0.00, ,556, ,8.2,K,75.6, ,48.5,K,61.7, ,70, ,27, ,45,K,37.4,K,6.5,K,59.7,K
+204,Santa Clarita,Los Angeles Basin,May 2013,8.02,K,0.28, ,613,K,9.2,K,81.1,K,54.0,K,68.0,K,65,K,26,K,45,L,43.3,L,6.8,K,65.0,K
+204,Santa Clarita,Los Angeles Basin,Jun 2013,8.09,K,0.00, ,679,K,12.2,K,86.3,K,57.3,K,71.7,K,74,K,29,K,50,L,50.7,L,6.0,K,69.8,K
+204,Santa Clarita,Los Angeles Basin,Jul 2013,8.19, ,0.05, ,616,K,13.0,K,91.1,K,63.0,K,76.0,K,69,K,24,K,45,L,52.5,L,5.3,K,73.2,K
+204,Santa Clarita,Los Angeles Basin,Aug 2013,8.44, ,0.00, ,608,K,11.2,K,91.6, ,60.8,K,75.9,K,61,K,20,K,37,K,47.1,K,5.0,K,71.7,K
+204,Santa Clarita,Los Angeles Basin,Sep 2013,6.74, ,0.00, ,529,K,10.2,K,89.7, ,60.8,K,74.3,K,56,K,20,K,37,L,44.9,L,5.0,K,72.0,K
+204,Santa Clarita,Los Angeles Basin,Oct 2013,5.24,K,0.04, ,398, ,7.2, ,78.0,K,49.6,K,62.8, ,63, ,22, ,40, ,34.3, ,5.8,K,60.7,K
+204,Santa Clarita,Los Angeles Basin,Nov 2013,3.45, ,0.47, ,282,K,6.6, ,71.2,K,47.0,K,58.8, ,59, ,27, ,42, ,32.0, ,5.7,K,55.5, 
+204,Santa Clarita,Los Angeles Basin,Dec 2013,3.57, ,0.16, ,255, ,4.0, ,66.1,K,42.8,K,54.0, ,45, ,19, ,31, ,19.6, ,6.3, ,48.9,K
+204,Santa Clarita,Los Angeles Basin,Jan 2014,3.26, ,0.00, ,276,K,4.0,K,73.3,K,47.6,K,60.0, ,39, ,14, ,24,K,19.2,K,3.6,K,50.0, 
+204,Santa Clarita,Los Angeles Basin,Feb 2014,3.28, ,2.21, ,336,K,6.6,K,70.4,K,44.7, ,56.4, ,64, ,27, ,45,K,32.4,K,4.8,K,52.2,K
+204,Santa Clarita,Los Angeles Basin,Mar 2014,5.48, ,0.72, ,459,K,7.4,K,73.1,K,47.9,K,60.1, ,67, ,27, ,44,K,34.9,K,6.1,K,56.1, 
+204,Santa Clarita,Los Angeles Basin,Apr 2014,6.74, ,0.06, ,567, ,7.2,K,77.0, ,48.6, ,62.2, ,65, ,23, ,40,K,34.8,K,5.8,K,61.0,K
+204,Santa Clarita,Los Angeles Basin,May 2014,8.40,K,0.01, ,630, ,8.3,K,82.6,K,54.6,K,68.5,K,57,K,23,K,44,L,42.2,L,6.3,K,64.4,K
+204,Santa Clarita,Los Angeles Basin,Jun 2014,8.39, ,0.00, ,702,K,11.7,K,85.7, ,56.4,K,70.7,K,73, ,26, ,48,L,49.5,L,5.9,K,68.7,K
+204,Santa Clarita,Los Angeles Basin,Jul 2014,8.22,K,0.00, ,612,K,13.2,K,91.7,K,63.4,L,76.6,K,69,K,24,K,45,L,52.2,L,5.0,K,72.1,K
+204,Santa Clarita,Los Angeles Basin,Aug 2014,8.14, ,0.02, ,585,K,12.2,K,90.9, ,61.9,L,75.7,K,68,K,22,K,41,L,49.8,L,5.4,K,71.6,K
+204,Santa Clarita,Los Angeles Basin,Sep 2014,6.23,K,0.01, ,509,K,11.2,K,91.2,K,61.5,K,75.5,K,60,K,21,K,40,L,47.0,L,3.8,K,69.1,K
+204,Santa Clarita,Los Angeles Basin,Oct 2014,3.97, ,0.01, ,406,K,8.5,K,85.4, ,54.7, ,68.8, ,58, ,21, ,38,K,38.7,K,1.1,K,63.2,K
+204,Santa Clarita,Los Angeles Basin,Nov 2014,3.42, ,0.19,K,292,K,6.9,K,73.5,K,47.8,K,60.8,K,60,K,25,K,40,K,31.7,K,4.8,K,58.3,K
+204,Santa Clarita,Los Angeles Basin,Dec 2014,2.11, ,4.20, ,211,K,8.9,K,63.4,K,44.1, ,53.3,K,82, ,44, ,63,K,39.5,K,5.0, ,54.8, 
+204,Santa Clarita,Los Angeles Basin,Jan 2015,3.17, ,1.09, ,256, ,7.0, ,69.0, ,45.4,K,56.6,K,68, ,28, ,46,K,33.7,K,5.2,K,52.5, 
+204,Santa Clarita,Los Angeles Basin,Feb 2015,3.30, ,0.59, ,343,K,8.4, ,73.7,K,45.0,K,58.5,K,75, ,29, ,52,K,39.1,K,4.9,K,56.2, 
+204,Santa Clarita,Los Angeles Basin,Mar 2015,5.58,K,1.06, ,452,K,7.5,K,77.7,K,48.6, ,62.8,K,64,K,23,K,40,K,36.1,K,5.4, ,58.4, 
+204,Santa Clarita,Los Angeles Basin,Apr 2015,6.20, ,0.10, ,515,K,7.0,K,75.5, ,47.9,K,61.7, ,64, ,24, ,41,L,34.3,L,5.8,K,60.0, 
+204,Santa Clarita,Los Angeles Basin,May 2015,5.41, ,0.59, ,485,K,10.8, ,72.8,K,50.8, ,61.0,K,83, ,41, ,61,K,46.3,K,5.4,K,62.3,K
+204,Santa Clarita,Los Angeles Basin,Jun 2015,7.31,K,0.01,L,572,L,12.3,L,87.7,L,59.2,L,73.1,L,73,L,29,L,50,L,50.5,L,5.1,L,68.8,L
+204,Santa Clarita,Los Angeles Basin,Jul 2015,7.09,K,1.21,K,551,K,15.4,K,87.1,K,61.2,L,73.1,K,82,K,33,K,56,K,55.8,K,5.0,K,71.2,K
+204,Santa Clarita,Los Angeles Basin,Aug 2015,7.90, ,0.00,K,573,K,13.7,K,93.0, ,63.6,L,77.4,K,71,K,25,K,45,K,52.3,K,5.0,K,71.9,K
+204,Santa Clarita,Los Angeles Basin,Sep 2015,5.88, ,1.21, ,472,K,14.3,K,90.3, ,61.6,K,75.4,K,73,K,27,K,49,K,53.6,K,4.7,K,71.5,K
+204,Santa Clarita,Los Angeles Basin,Oct 2015,3.64, ,0.00, ,360, ,11.3,K,85.3, ,58.4,K,70.6,K,69,K,26,K,46,L,46.6,L,1.1,K,67.7,K
+204,Santa Clarita,Los Angeles Basin,Nov 2015,2.94,K,0.02, ,312,K,5.1, ,69.4,K,43.5,K,56.6,K,54, ,20, ,34,K,25.5,K,2.7,K,55.9,K
+204,Santa Clarita,Los Angeles Basin,Dec 2015,2.31,K,0.41, ,258,K,5.0,K,62.9,K,38.3,K,50.6,K,62, ,25, ,41,L,24.7,L,3.0,K,50.6, 
+204,Santa Clarita,Los Angeles Basin,Jan 2016,1.97,K,3.32, ,237,K,7.4, ,62.9, ,40.9, ,52.3, ,75, ,39, ,57, ,34.9, ,2.8, ,50.6, 
+204,Santa Clarita,Los Angeles Basin,Feb 2016,4.80,K,0.30, ,395,K,5.2,K,75.8,K,45.1,K,61.6,K,49, ,16, ,30,L,26.8,L,6.5,K,53.5,K
+204,Santa Clarita,Los Angeles Basin,Mar 2016,4.51, ,1.35, ,452,K,8.8,K,72.4, ,43.4,K,58.6,K,81, ,31, ,54,K,40.4,K,4.9,K,56.8, 
+204,Santa Clarita,Los Angeles Basin,Apr 2016,5.24,K,0.04, ,518,K,8.3,K,76.7,K,48.6,K,63.0,K,70,K,27,K,44,K,38.2,K,3.2,K,59.4,K
+204,Santa Clarita,Los Angeles Basin,May 2016,5.77,K,0.05,K,531,K,11.9,K,75.0, ,49.0,K,62.3,K,87,K,41,K,62,K,48.8,K,5.7,K,62.3,K
+204,Santa Clarita,Los Angeles Basin,Jun 2016,7.77,K,0.00, ,636,K,12.3,K,89.8,K,59.6,L,74.2,L,73,K,28,K,50,L,52.1,L,5.5,K,66.3,K
+204,Santa Clarita,Los Angeles Basin,Jul 2016,8.99,K,0.00, ,672,K,11.9,K,93.5,K,61.9,L,77.2,L,70,K,19,K,44,L,51.3,L,5.7,K,68.6,L
+204,Santa Clarita,Los Angeles Basin,Aug 2016,8.13, ,0.00, ,605,K,12.4,K,93.0, ,60.7,L,76.3,K,71,K,21,K,44,L,51.1,L,4.9,K,68.3,L
+204,Santa Clarita,Los Angeles Basin,Sep 2016,6.30, ,0.00,K,495,K,11.1,K,87.5,K,58.0,L,72.0,K,70,K,23,K,43,K,46.0,K,5.3,K,67.4,L
+204,Santa Clarita,Los Angeles Basin,Oct 2016,4.68, ,0.38,K,365,K,9.6,K,79.9, ,53.5,K,66.2,K,68,K,29,K,46,K,41.2,K,5.1,K,63.1,K
+204,Santa Clarita,Los Angeles Basin,Nov 2016,3.40, ,0.93, ,301,K,6.3, ,74.7,K,46.6,K,60.5,K,59, ,20, ,37,L,31.3,L,4.6,K,57.7, 
+204,Santa Clarita,Los Angeles Basin,Dec 2016,2.69,K,2.70, ,244,K,7.1,L,62.9,L,43.3,L,52.6,K,71,K,35,K,52,L,32.3,L,6.2,K,51.1,L
+204,Santa Clarita,Los Angeles Basin,Jan 2017,2.29, ,2.70,K,262,K,8.0, ,60.0, ,42.6, ,50.8, ,82, ,48, ,65, ,37.7, ,6.0,K,50.5,K
+204,Santa Clarita,Los Angeles Basin,Feb 2017,2.19, ,2.32, ,286,K,9.9,K,63.2, ,45.5, ,53.3, ,88, ,51, ,71,K,43.0,K,4.9,K,53.5, 
+204,Santa Clarita,Los Angeles Basin,Mar 2017,5.34, ,0.20, ,509,K,8.2,K,75.1, ,47.2, ,60.4, ,71, ,27, ,47,K,38.4,K,5.5,K,55.5,K
+204,Santa Clarita,Los Angeles Basin,Apr 2017,7.06, ,0.11, ,616,K,8.1,K,77.7, ,49.6, ,62.9, ,66, ,24, ,42,K,38.2,K,6.4,K,58.3,K
+204,Santa Clarita,Los Angeles Basin,May 2017,7.12, ,0.28, ,626,K,10.6,K,80.0,K,52.2,K,65.1,K,75,K,34,K,52,K,45.5,K,5.5,K,61.5,K
+204,Santa Clarita,Los Angeles Basin,Jun 2017,8.37,K,0.01, ,716,K,13.3,K,90.2,K,59.5,K,74.4,K,72,K,30,K,51,L,51.8,L,5.1,K,67.6,K
+204,Santa Clarita,Los Angeles Basin,Jul 2017,8.96,K,0.03, ,691,K,15.1,K,95.7,K,63.7,L,78.3,L,71,K,26,K,46,L,55.7,L,5.0,K,70.8,K
+204,Santa Clarita,Los Angeles Basin,Aug 2017,7.95,K,0.14, ,616,K,15.6, ,94.6,K,63.7,L,78.2,K,74,K,29,K,51,L,56.7,L,4.8,K,71.5,K
+204,Santa Clarita,Los Angeles Basin,Sep 2017,5.97,K,0.03, ,504,K,13.1,K,87.1,K,59.2,L,72.3,K,70,K,31,K,50,L,50.0,L,5.1,K,69.5,L
+204,Santa Clarita,Los Angeles Basin,Oct 2017,5.94,K,0.00, ,444,K,7.2,K,86.2,K,54.9,L,69.8,L,53,K,18,K,33,L,34.1,L,6.0,K,61.7,K
+204,Santa Clarita,Los Angeles Basin,Nov 2017,3.39,K,0.02, ,303,K,8.5, ,76.4,K,51.0,K,62.4,K,65,K,29,K,47,L,38.6,L,4.8, ,59.1, 
+204,Santa Clarita,Los Angeles Basin,Dec 2017,4.01, ,0.00, ,291,K,3.3, ,73.0,K,45.1,K,58.2,K,34, ,11, ,21,K,14.6,K,6.3,K,51.1, 
+204,Santa Clarita,Los Angeles Basin,Jan 2018,3.43, ,2.05, ,281,K,6.7, ,71.6,K,46.6, ,58.6,K,60, ,25, ,41,K,32.2,K,5.5, ,52.6, 
+204,Santa Clarita,Los Angeles Basin,Feb 2018,3.86, ,0.23, ,427,K,5.1,K,69.4,K,41.7, ,55.0,K,60, ,21, ,36,K,26.0,K,5.7, ,51.2,K
+204,Santa Clarita,Los Angeles Basin,Mar 2018,4.10, ,3.68,K,427,K,8.8,K,67.2, ,45.0, ,55.4, ,81, ,41, ,59,K,39.2,K,5.1,K,53.7,K
+204,Santa Clarita,Los Angeles Basin,Apr 2018,6.57, ,0.01, ,613,K,8.5,K,76.8,K,48.7, ,62.2,K,71,K,28,K,46,K,39.1,K,5.5,K,59.0,K
+204,Santa Clarita,Los Angeles Basin,May 2018,5.97, ,0.01, ,555, ,11.5, ,75.5,K,52.2, ,62.8, ,79, ,44, ,61, ,48.0, ,5.1,K,62.4,K
+204,Santa Clarita,Los Angeles Basin,Jun 2018,8.16, ,0.02, ,704,K,12.4,K,87.2,K,56.7,K,71.1,K,76,K,29,K,50,L,50.4,L,5.4,K,66.7,K
+204,Santa Clarita,Los Angeles Basin,Jul 2018,9.18, ,0.01,K,677,K,14.8,K,97.7,K,66.6,L,81.6,K,67,K,25,K,42,K,54.6,K,5.0, ,71.2, 
+204,Santa Clarita,Los Angeles Basin,Aug 2018,8.49, ,0.00, ,637, ,14.0,K,93.8,K,64.0, ,77.8, ,68, ,25, ,44,K,52.9,K,4.9, ,70.1, 
+204,Santa Clarita,Los Angeles Basin,Sep 2018,6.63, ,0.00, ,569,K,12.4, ,90.7, ,58.6, ,73.1, ,72, ,24, ,45, ,49.2, ,4.6, ,67.5,K
+204,Santa Clarita,Los Angeles Basin,Oct 2018,5.05, ,0.33, ,421,K,9.5, ,81.6, ,54.2, ,66.9, ,63, ,25, ,43, ,40.6, ,5.2,K,63.3, 
+204,Santa Clarita,Los Angeles Basin,Nov 2018,4.06, ,0.50,K,327,K,6.0, ,74.5, ,48.0, ,60.8, ,55, ,21, ,35, ,27.0, ,5.8,K,56.2, 
+204,Santa Clarita,Los Angeles Basin,Dec 2018,2.73, ,2.06, ,265,K,6.4, ,65.8,K,43.0, ,53.3, ,68, ,28, ,46, ,31.9, ,5.5, ,51.8, 
+204,Santa Clarita,Los Angeles Basin,Jan 2019,2.49, ,4.55, ,254,K,7.6,K,64.3, ,43.7, ,53.2, ,74, ,38, ,56,K,35.0,K,5.3,K,50.3, 
+204,Santa Clarita,Los Angeles Basin,Feb 2019,2.19, ,4.27,K,315,K,7.4,K,57.9, ,38.0,K,47.0, ,87, ,45, ,66,K,35.6,K,5.1, ,49.5,K
+204,Santa Clarita,Los Angeles Basin,Mar 2019,4.32, ,2.69, ,445,K,8.5,K,67.2, ,44.0, ,54.8, ,79, ,39, ,59,K,38.9,K,5.2,K,54.4, 
+204,Santa Clarita,Los Angeles Basin,Apr 2019,5.79, ,0.03, ,544,K,9.5, ,75.9, ,50.1, ,61.7, ,75, ,33, ,52, ,42.6, ,5.1,K,60.4, 
+204,Santa Clarita,Los Angeles Basin,May 2019,5.38, ,0.78, ,534,K,11.6, ,71.4,K,50.1,K,59.7,K,88, ,49, ,67,K,48.3,K,5.0, ,62.3, 
+204,Santa Clarita,Los Angeles Basin,Jun 2019,7.28, ,0.00, ,668,K,14.0, ,83.6,K,56.8,K,68.8,K,85, ,39, ,61,K,53.2,K,4.7, ,68.3, 
+204,Santa Clarita,Los Angeles Basin,Jul 2019,8.64, ,0.02, ,695,K,13.9, ,92.4, ,62.0, ,76.3, ,70, ,28, ,46, ,53.3, ,4.7,K,70.8, 
+204,Santa Clarita,Los Angeles Basin,Aug 2019,8.59, ,0.01, ,658,K,12.4, ,94.4, ,62.5, ,77.5, ,64, ,20, ,39, ,49.9, ,4.6, ,69.7, 
+204,Santa Clarita,Los Angeles Basin,Sep 2019,6.22, ,0.00, ,515,K,12.0,K,88.8, ,60.4, ,73.4, ,65, ,27, ,44,K,48.6,K,4.8, ,68.3, 
+204,Santa Clarita,Los Angeles Basin,Oct 2019,6.25, ,0.00, ,465,K,5.5,K,82.6, ,51.8,K,66.8, ,46, ,12, ,25,K,25.6,K,6.7,K,61.4,K
+204,Santa Clarita,Los Angeles Basin,Nov 2019,3.57, ,1.91, ,317,K,5.6,K,75.5,K,46.6, ,59.8,K,56, ,21, ,36,K,27.0,K,5.1,K,56.0,K
+204,Santa Clarita,Los Angeles Basin,Dec 2019,2.23, ,3.54, ,230,K,7.4, ,62.0, ,42.0, ,51.1, ,76, ,40, ,57, ,34.9, ,5.1,K,51.6, 
+204,Santa Clarita,Los Angeles Basin,Jan 2020,3.10, ,0.29, ,300,K,6.2, ,67.5, ,41.6, ,53.6, ,66, ,28, ,45, ,31.6, ,5.3, ,49.9, 
+204,Santa Clarita,Los Angeles Basin,Feb 2020,4.30, ,0.03, ,401,K,5.7, ,71.5, ,42.9, ,56.1, ,62, ,19, ,38, ,28.1, ,5.9,K,51.2, 
+204,Santa Clarita,Los Angeles Basin,Mar 2020,3.40, ,4.13,K,367,K,8.8,K,65.3, ,44.0,K,53.2,K,86, ,45, ,65,K,40.5,K,4.6, ,54.3, 
+204,Santa Clarita,Los Angeles Basin,Apr 2020,4.93, ,2.89,K,469, ,10.4,K,73.2,K,50.0, ,60.7,K,82, ,40, ,60,K,45.1,K,4.9, ,58.7, 
+204,Santa Clarita,Los Angeles Basin,May 2020,7.82, ,0.05, ,654, ,10.7, ,84.3, ,54.0, ,68.6, ,71, ,27, ,46, ,45.8, ,5.2, ,64.5, 
+204,Santa Clarita,Los Angeles Basin,Jun 2020,7.51, ,0.00, ,643,K,12.2,K,85.2,K,57.1, ,70.2,K,75, ,32, ,50,K,48.3,K,5.3,K,67.6, 
+204,Santa Clarita,Los Angeles Basin,Jul 2020,8.90, ,0.00, ,691, ,11.8,K,92.6, ,59.8, ,75.5, ,67, ,21, ,41,K,48.4,K,4.9, ,68.3,K
+204,Santa Clarita,Los Angeles Basin,Aug 2020,8.23, ,0.00, ,596, ,13.7,K,96.8,K,65.3,K,79.5,K,64, ,22, ,40,K,52.2,K,4.7,K,70.9, 
+204,Santa Clarita,Los Angeles Basin,Sep 2020,6.68, ,0.00, ,497, ,9.6,K,95.5,K,61.4,K,77.1,K,55, ,15, ,31,K,42.0,K,4.5,K,67.9, 
+204,Santa Clarita,Los Angeles Basin,Oct 2020,5.31,K,0.04, ,399, ,8.8, ,87.6,K,56.4,K,70.4,K,57, ,22, ,37,K,38.1,K,4.5,K,64.8, 
+204,Santa Clarita,Los Angeles Basin,Nov 2020,3.79, ,0.00, ,311, ,5.4, ,75.0, ,45.6,K,59.5,K,54, ,17, ,32,K,27.1,K,5.5,K,56.4, 
+204,Santa Clarita,Los Angeles Basin,Dec 2020,3.56,K,0.00,K,251,K,4.1,K,68.1,K,42.8,K,55.4,K,46,K,19,K,30,K,19.4,K,6.3,K,50.0,K
+204,Santa Clarita,Los Angeles Basin,Jan 2021,3.49, ,1.38, ,274, ,5.4, ,67.1, ,44.1, ,55.3,K,58,K,25,K,40,K,27.7,K,6.6,K,49.4, 
+204,Santa Clarita,Los Angeles Basin,Feb 2021,4.21, ,0.00, ,403,K,5.5,K,69.5, ,44.3, ,55.9, ,59, ,22, ,37,K,27.3,K,6.6,K,50.9, 
+204,Santa Clarita,Los Angeles Basin,Mar 2021,4.99, ,0.40, ,478,K,6.1,K,68.6,K,41.6,K,54.3,K,69,K,25,K,46,K,30.0,K,5.6,K,52.4, 
+204,Santa Clarita,Los Angeles Basin,Apr 2021,6.21, ,0.09, ,551,K,7.6,K,77.9, ,49.3, ,62.9, ,65, ,26, ,43,K,36.0,K,5.3, ,58.5, 
+204,Santa Clarita,Los Angeles Basin,May 2021,7.18, ,0.00, ,629, ,10.9,K,80.6, ,52.1, ,65.0, ,80, ,32, ,53,K,46.2,K,5.0, ,64.6, 
+204,Santa Clarita,Los Angeles Basin,Jun 2021,8.12, ,0.00, ,674, ,12.5,K,91.0,K,58.8,K,73.9,K,72, ,26, ,45,K,49.8,K,5.0, ,69.2, 
+204,Santa Clarita,Los Angeles Basin,Jul 2021,8.40, ,0.00, ,629, ,13.5, ,95.6, ,64.3, ,78.7, ,68, ,22, ,41, ,52.5, ,4.4, ,70.4, 
+204,Santa Clarita,Los Angeles Basin,Aug 2021,7.71,K,0.00,K,567,K,12.2,K,94.0,K,63.1, ,77.0,K,65,K,23,K,41,K,49.0,K,4.6,K,70.6,K
+204,Santa Clarita,Los Angeles Basin,Sep 2021,6.28, ,0.00, ,518,K,11.5,K,90.3, ,59.4, ,73.3, ,68, ,24, ,43,K,47.0,K,4.4, ,67.6, 
+204,Santa Clarita,Los Angeles Basin,Oct 2021,4.90, ,0.46, ,399,K,8.1, ,78.4,K,50.7,K,63.9, ,63, ,26, ,42, ,36.7, ,5.1, ,61.4, 
+204,Santa Clarita,Los Angeles Basin,Nov 2021,4.00, ,0.00, ,321, ,6.6, ,79.5, ,50.0,K,63.5,K,53, ,19, ,34,K,30.4,K,5.3,K,58.2, 
+204,Santa Clarita,Los Angeles Basin,Dec 2021,1.89, ,6.62, ,212, ,7.2, ,62.2, ,40.4, ,50.5, ,81, ,41, ,60, ,34.7, ,4.6, ,51.9, 
+204,Santa Clarita,Los Angeles Basin,Jan 2022,3.69, ,0.19, ,282, ,5.0,K,67.9, ,44.6, ,55.9, ,54, ,20, ,34,K,24.7,K,6.6,K,50.1, 
+204,Santa Clarita,Los Angeles Basin,Feb 2022,4.64, ,0.00, ,406,K,3.9, ,70.5, ,43.3, ,56.9,K,47, ,15, ,27,K,19.0,K,7.0,K,50.9, 
+204,Santa Clarita,Los Angeles Basin,Mar 2022,5.56, ,1.30, ,503,K,6.5,K,74.4,K,45.4, ,59.2, ,65, ,23, ,39,K,31.7,K,5.5, ,54.4, 
+204,Santa Clarita,Los Angeles Basin,Apr 2022,6.44,K,0.16, ,577,K,8.3, ,77.0,K,49.4,K,62.6,K,70,K,27,K,45,K,38.2,K,5.5,K,58.6, 
+204,Santa Clarita,Los Angeles Basin,May 2022,7.66, ,0.00, ,654, ,10.0,K,81.2, ,51.4, ,65.7, ,71, ,29, ,47,K,43.1,K,5.2,K,63.2, 
+204,Santa Clarita,Los Angeles Basin,Jun 2022,8.69, ,0.00, ,690, ,11.3,K,92.9, ,60.1,K,76.2, ,65, ,21, ,38,K,46.9,K,5.1, ,68.5, 
+204,Santa Clarita,Los Angeles Basin,Jul 2022,8.60, ,0.01, ,657, ,13.0, ,94.7, ,62.5, ,77.2, ,67, ,22, ,41, ,51.3, ,4.6, ,70.5, 
+204,Santa Clarita,Los Angeles Basin,Aug 2022,8.21, ,0.00, ,592, ,12.4, ,97.3, ,65.9, ,80.3, ,58, ,20, ,36, ,49.4, ,4.4, ,71.5, 
+204,Santa Clarita,Los Angeles Basin,Sep 2022,6.12, ,0.40, ,497,K,14.6,K,93.4, ,65.2, ,77.6, ,69, ,29, ,47,K,54.1,K,4.4,K,71.7, 
+204,Santa Clarita,Los Angeles Basin,Oct 2022,4.95, ,0.11, ,406,K,10.9, ,83.8, ,54.6, ,67.6, ,71, ,27, ,47, ,43.8, ,4.6, ,66.6, 
+204,Santa Clarita,Los Angeles Basin,Nov 2022,3.53, ,1.19,K,316, ,5.3, ,68.4,K,43.0, ,55.3,K,57, ,24, ,37,K,24.9,K,6.4,K,55.9, 
+204,Santa Clarita,Los Angeles Basin,Dec 2022,1.86, ,3.93, ,207, ,7.7,K,63.0,K,42.2,K,51.5,K,77, ,42, ,60,K,36.3,K,4.6, ,52.4, 
+204,Santa Clarita,Los Angeles Basin,Jan 2023,2.17, ,6.91,K,234,K,7.2,K,59.9, ,40.9, ,50.1,K,77,K,43,K,59,K,34.2,K,6.0,K,50.7,K
+204,Santa Clarita,Los Angeles Basin,Feb 2023,3.09, ,7.56, ,333,K,5.4, ,62.5,K,38.9,K,49.8,K,68, ,30, ,47,K,27.3,K,5.8,K,48.8,K
+204,Santa Clarita,Los Angeles Basin,Mar 2023,3.49, ,5.17,K,392,K,8.5,K,61.6,K,42.1,K,50.7,K,85, ,45, ,67,K,39.0,K,5.1, ,52.4,K
+204,Santa Clarita,Los Angeles Basin,Apr 2023,6.21,K,0.02, ,609,K,9.4, ,75.9,K,47.4, ,60.6, ,77, ,31, ,52, ,41.5, ,4.9,K,58.7,K
+204,Santa Clarita,Los Angeles Basin,May 2023,5.30, ,0.50, ,508, ,12.4, ,74.3, ,51.6,K,61.3, ,89, ,46, ,67, ,49.9, ,4.6, ,63.5, 
+204,Santa Clarita,Los Angeles Basin,Jun 2023,5.72, ,0.00, ,570,K,13.0, ,76.9,K,53.7,K,64.1, ,84, ,45, ,64, ,51.4, ,4.4,K,64.7, 
+204,Santa Clarita,Los Angeles Basin,Jul 2023,8.83, ,0.00, ,682,K,12.9,K,97.4, ,63.9, ,79.9, ,61, ,20, ,37,K,50.8,K,4.5, ,70.6, 
+204,Santa Clarita,Los Angeles Basin,Aug 2023,7.75,K,6.23, ,599,K,14.0,K,93.7,K,63.2, ,77.1, ,71, ,24, ,45,K,53.0,K,4.5, ,71.4, 
+204,Santa Clarita,Los Angeles Basin,Sep 2023,4.88, ,0.28, ,463,K,14.9,K,82.5,K,58.7, ,69.0, ,82, ,42, ,63,K,55.0,K,4.3, ,68.4, 
+204,Santa Clarita,Los Angeles Basin,Oct 2023,5.47, ,0.01, ,429, ,9.1, ,83.9, ,54.9, ,68.2, ,62, ,24, ,40, ,39.7, ,5.2,K,63.4, 
+204,Santa Clarita,Los Angeles Basin,Nov 2023,2.87,K,4.77,K,302, ,6.9,L,74.2,L,46.3,L,59.2,L,74,L,42,L,39,L,30.6,L,5.6,K,55.9, 
+204,Santa Clarita,Los Angeles Basin,Dec 2023,2.25,K,0.57, ,222, ,6.3,L,69.5,L,39.3,L,53.1,L,74,K,41,K,54,L,33.3,L,5.0,K,52.4, 
+204,Santa Clarita,Los Angeles Basin,Jan 2024,2.73,K,0.83, ,261, ,5.1,L,70.0,L,46.8,L,53.3,L,80,L,45,L,61,L,41.4,L,5.0, ,50.6,L
+204,Santa Clarita,Los Angeles Basin,Feb 2024,2.37, ,7.83, ,298,K,9.1,K,62.3, ,42.1, ,51.3, ,90, ,50, ,71,K,41.4,K,4.7, ,51.9, 
+204,Santa Clarita,Los Angeles Basin,Mar 2024,4.13, ,1.37, ,449,K,9.0, ,66.1,K,42.9, ,53.4, ,86, ,43, ,65, ,41.4, ,5.1,K,54.9, 
+204,Santa Clarita,Los Angeles Basin,Apr 2024,5.36,K,0.00, ,554,K,9.8, ,72.1,K,45.2,K,57.9,K,84, ,38, ,60,K,43.6,K,4.9, ,58.6, 
+223,North Hollywood,Los Angeles Basin,Dec 2014,0.10, ,0.00, ,277, ,2.5, ,56.5, ,36.2, ,47.8, ,56, ,15, ,22, ,11.3, ,4.2, ,51.3, 
+223,North Hollywood,Los Angeles Basin,Jan 2015,2.25,K,1.17,K,244, ,9.6,K,73.3, ,46.0,K,57.8,K,87, ,33, ,60,K,42.4,K,1.5,K,54.9, 
+223,North Hollywood,Los Angeles Basin,Feb 2015,2.72,K,0.83,K,334, ,11.3,K,75.1,K,48.3,K,60.3,K,92, ,39, ,64,K,47.2,K,1.8,K,58.8, 
+223,North Hollywood,Los Angeles Basin,Mar 2015,4.63,K,1.49, ,453, ,11.2,K,80.0,K,51.6,K,65.1,K,84, ,32, ,55,K,46.7,K,2.1,K,61.1, 
+223,North Hollywood,Los Angeles Basin,Apr 2015,5.29, ,0.33,K,536, ,10.4,K,77.2, ,50.3, ,63.5,K,87, ,33, ,54,K,44.7,K,2.3,K,63.0, 
+223,North Hollywood,Los Angeles Basin,May 2015,4.09,L,0.34,L,481,L,12.5,L,72.3,L,53.2,L,61.9,L,90,L,49,L,67,L,50.4,L,2.6,L,64.9,L
+223,North Hollywood,Los Angeles Basin,Jun 2015,,N,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+223,North Hollywood,Los Angeles Basin,Jul 2015,,N,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+223,North Hollywood,Los Angeles Basin,Nov 2016,0.07,K,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M,,M
+223,North Hollywood,Los Angeles Basin,Jan 2018,0.14,K,0.00,K,253,K,7.1,K,82.3, ,49.4, ,64.1,K,65,K,16,K,35,K,35.6,K,1.7,K,57.4,K
+223,North Hollywood,Los Angeles Basin,Feb 2018,3.12,K,0.14,K,398,K,7.9,K,70.4, ,43.7,K,56.0,K,82,K,28,K,51,K,37.3,K,2.4,K,55.4,K
+223,North Hollywood,Los Angeles Basin,Mar 2018,3.81,K,2.69,L,427,L,10.4,L,69.0,L,48.2,L,58.0,L,87,L,45,L,64,L,44.2,L,2.5,L,57.2,L
+223,North Hollywood,Los Angeles Basin,Apr 2018,5.61,K,0.03, ,590,K,11.3,K,75.7,K,51.5, ,62.4,K,86, ,39, ,60,K,46.8,K,2.8,K,63.7, 
+223,North Hollywood,Los Angeles Basin,May 2018,4.65,K,0.12,K,491,K,13.5, ,73.7, ,54.7,L,63.1,K,91, ,52, ,69,K,52.4,K,2.7,K,66.2,L
+223,North Hollywood,Los Angeles Basin,Jun 2018,6.54,K,0.02,K,634, ,15.0, ,81.2, ,58.8, ,68.4, ,86, ,44, ,64, ,55.5, ,2.9,K,70.7, 
+223,North Hollywood,Los Angeles Basin,Jul 2018,7.60,K,0.03, ,638, ,16.5,K,91.6,L,67.3,K,77.6,L,73,K,34,K,53,L,58.4,L,2.8,K,77.2, 
+223,North Hollywood,Los Angeles Basin,Aug 2018,6.81,K,0.02, ,600, ,18.9,K,90.0,K,65.2,K,75.8,K,89, ,39, ,62,L,61.5,L,2.6,K,76.6, 
+223,North Hollywood,Los Angeles Basin,Sep 2018,5.33,K,0.00, ,538,K,17.1, ,85.7, ,60.6, ,70.9, ,91, ,42, ,67, ,58.7, ,2.4,K,73.1, 
+223,North Hollywood,Los Angeles Basin,Oct 2018,3.88, ,0.42, ,403,K,14.0,K,81.1, ,56.2, ,67.0, ,89, ,40, ,62,K,52.4,K,2.1,K,67.0, 
+223,North Hollywood,Los Angeles Basin,Nov 2018,2.72, ,1.98,K,308,K,9.8,K,77.1, ,48.6,K,61.1, ,83, ,29, ,54,K,42.3,K,1.9,K,59.1, 
+223,North Hollywood,Los Angeles Basin,Dec 2018,1.88,K,2.71, ,254, ,9.2, ,69.5, ,45.2, ,55.6, ,86, ,35, ,61, ,41.3, ,1.4,K,54.2, 
+223,North Hollywood,Los Angeles Basin,Jan 2019,1.85,K,8.37, ,240, ,9.8,K,67.9, ,45.1, ,55.4, ,87, ,44, ,65,K,42.2,K,1.9,K,52.5, 
+223,North Hollywood,Los Angeles Basin,Feb 2019,2.11, ,8.22, ,300,K,8.9,K,62.2, ,42.7,K,51.7, ,90, ,44, ,67,K,40.1,K,2.6,K,52.2,K
+223,North Hollywood,Los Angeles Basin,Mar 2019,3.96, ,3.16, ,435,K,10.5,K,70.2, ,48.8, ,58.9, ,87, ,44, ,63,K,44.7,K,2.6,K,58.8, 
+223,North Hollywood,Los Angeles Basin,Apr 2019,5.01, ,0.05, ,526,K,12.9,K,75.9, ,54.6,K,63.9,K,88, ,45, ,65,K,50.7,K,2.8,K,64.3, 
+223,North Hollywood,Los Angeles Basin,May 2019,4.52, ,1.15, ,485, ,13.7, ,71.4,K,53.8,K,61.8, ,93, ,55, ,73, ,52.9, ,2.6,K,66.7,K
+223,North Hollywood,Los Angeles Basin,Jun 2019,5.16,K,0.00, ,535, ,17.1,K,79.6,K,60.2,K,68.0,K,93,K,54,K,75,L,58.9,L,2.7,K,71.7, 
+223,North Hollywood,Los Angeles Basin,Jul 2019,6.83,K,0.00, ,630, ,18.4, ,86.3,K,62.7, ,73.0, ,91, ,46, ,67, ,61.0, ,2.7,K,75.5, 
+223,North Hollywood,Los Angeles Basin,Aug 2019,6.91, ,0.01,K,635,K,18.1, ,88.8, ,62.5, ,74.1, ,91, ,40, ,63, ,60.7, ,2.5,K,75.7, 
+223,North Hollywood,Los Angeles Basin,Sep 2019,5.20, ,0.01, ,510,K,16.6, ,86.6, ,62.4, ,73.2, ,86, ,38, ,60, ,58.1, ,2.3,K,76.4, 
+223,North Hollywood,Los Angeles Basin,Oct 2019,4.48, ,0.02,K,440,K,10.1,K,85.3,K,52.1,K,67.3,K,78, ,22, ,45,K,43.4,K,2.1,K,67.8, 
+223,North Hollywood,Los Angeles Basin,Nov 2019,2.60, ,2.23, ,295,K,10.0,K,77.7,K,47.6,K,60.2,K,85, ,32, ,57,K,43.3,K,1.9,K,60.6, 
+223,North Hollywood,Los Angeles Basin,Dec 2019,1.60, ,4.80,K,208, ,8.9, ,65.1, ,43.5,K,53.1, ,86, ,41, ,64, ,40.3, ,1.9,K,54.7, 
+223,North Hollywood,Los Angeles Basin,Jan 2020,2.31, ,0.31,K,276, ,8.0, ,68.6, ,42.8, ,54.5, ,82, ,35, ,57, ,38.1, ,2.0,K,53.8, 
+223,North Hollywood,Los Angeles Basin,Feb 2020,3.23,K,0.27,K,378, ,8.3,K,71.5,K,44.7,K,57.1,K,78,K,29,K,52,K,38.0,K,2.3,K,55.3,K
+223,North Hollywood,Los Angeles Basin,Mar 2020,3.26,K,4.87, ,382, ,10.5,K,67.8,L,47.1,K,56.0,K,91,K,48,K,69,K,45.2,K,2.4,K,57.6,K
+223,North Hollywood,Los Angeles Basin,Apr 2020,4.40,K,3.76, ,479, ,11.9, ,72.2,K,51.5,K,61.0,K,88,K,47,K,67,K,48.8,K,2.4,K,61.8,K
+223,North Hollywood,Los Angeles Basin,May 2020,6.49, ,0.10, ,634, ,13.4, ,78.3, ,55.0,K,66.0,K,88, ,43, ,62,K,52.2,K,2.6,K,68.9, 
+223,North Hollywood,Los Angeles Basin,Jun 2020,6.13,K,0.00, ,603, ,14.0,K,79.8,K,58.7, ,68.1,K,83,K,44,K,66,L,55.1,L,2.7,K,71.6, 
+223,North Hollywood,Los Angeles Basin,Jul 2020,7.19, ,0.00, ,664, ,17.2, ,86.9,K,61.9, ,72.8, ,90, ,41, ,63, ,59.0, ,2.4,K,74.1, 
+223,North Hollywood,Los Angeles Basin,Aug 2020,6.79,K,0.02,K,588, ,18.6,K,93.0,K,67.7,K,78.8,K,89,K,39,K,56,L,61.0,L,3.6,K,76.2, 
+223,North Hollywood,Los Angeles Basin,Sep 2020,5.21,K,0.07,K,473, ,14.4,K,95.4,L,63.6,K,77.2,K,84,K,31,K,49,L,54.0,L,2.7,K,74.1, 
+223,North Hollywood,Los Angeles Basin,Oct 2020,4.01,K,0.02, ,372, ,14.7,K,89.5,L,60.5,K,72.5,K,84,K,33,K,55,K,53.9,K,1.9,K,70.9, 
+223,North Hollywood,Los Angeles Basin,Nov 2020,2.73,K,0.03, ,312,K,10.6,K,80.9,L,48.8,K,61.9,K,84,K,29,K,55,K,44.8,K,1.7,K,62.4, 
+223,North Hollywood,Los Angeles Basin,Dec 2020,2.12,K,1.31, ,247, ,8.5,K,77.1,K,45.0,K,59.1,K,80,K,25,K,51,L,39.4,L,1.7,K,56.2, 
+223,North Hollywood,Los Angeles Basin,Jan 2021,2.39,K,2.20, ,267, ,9.4,K,76.7,L,46.4,K,59.2,L,82,K,32,K,57,L,42.6,L,1.9,K,54.7, 
+223,North Hollywood,Los Angeles Basin,Feb 2021,3.32, ,0.02,K,380,K,8.7, ,75.2,K,48.3,K,60.2, ,80, ,27, ,50, ,39.8, ,2.4,K,56.4, 
+223,North Hollywood,Los Angeles Basin,Mar 2021,4.25, ,1.31, ,458,K,10.0,K,74.6,K,47.4,K,59.6,K,89, ,36, ,59,K,43.5,K,2.4,K,57.3,K
+223,North Hollywood,Los Angeles Basin,Apr 2021,5.15,K,0.00, ,530,K,12.8,K,80.0,L,54.0,K,65.4,K,89,K,42,K,63,L,50.4,L,2.5,K,63.9, 
+223,North Hollywood,Los Angeles Basin,May 2021,5.76,K,0.12, ,568, ,17.2,K,81.0,L,59.2,K,68.3,K,93,K,53,K,71,L,57.4,L,2.5,K,68.3, 
+223,North Hollywood,Los Angeles Basin,Jun 2021,6.69,K,0.01, ,638, ,18.9,K,87.6,L,62.2,K,72.9,L,93,K,45,K,67,L,60.0,L,2.5,K,72.1, 
+223,North Hollywood,Los Angeles Basin,Jul 2021,6.70,K,0.03, ,615, ,19.8,K,89.7, ,64.4, ,75.4, ,96, ,41, ,66,K,63.2,K,1.8,K,74.9, 
+223,North Hollywood,Los Angeles Basin,Aug 2021,6.31,K,0.00,K,554,K,19.3,K,91.2,K,65.3, ,76.4,K,91,K,40,K,62,L,62.1,L,2.4,K,75.4,K
+223,North Hollywood,Los Angeles Basin,Sep 2021,5.16,K,0.02,K,491,K,20.2,K,94.6,L,64.7,K,76.2,K,96,K,41,K,68,L,63.4,L,2.2,K,73.0, 
+223,North Hollywood,Los Angeles Basin,Oct 2021,3.92,K,1.57, ,379, ,16.9,K,91.5,L,57.9,K,71.7,K,95,K,39,K,61,L,56.0,L,2.1,K,65.7, 
+223,North Hollywood,Los Angeles Basin,Nov 2021,2.69, ,0.00, ,303, ,11.0, ,79.3,K,50.0, ,62.2,K,86, ,34, ,58,K,45.0,K,1.7,K,62.5, 
+223,North Hollywood,Los Angeles Basin,Dec 2021,1.29,K,10.69, ,190, ,10.2,K,64.0,K,43.0, ,52.0, ,97, ,49, ,77,K,44.3,K,1.8,K,54.8, 
+223,North Hollywood,Los Angeles Basin,Jan 2022,2.32,K,0.26,K,269, ,7.6,K,71.2, ,44.2,K,55.9, ,79, ,28, ,51,K,36.2,K,1.7,K,53.5, 
+223,North Hollywood,Los Angeles Basin,Feb 2022,3.29,K,0.02, ,393,K,6.6, ,74.7,K,42.7,K,57.5,K,80,K,21,K,42,K,32.9,K,2.1,K,54.7,K
+223,North Hollywood,Los Angeles Basin,Mar 2022,4.61,K,1.65, ,482,K,9.8,K,75.5,K,48.2, ,61.2, ,87, ,31, ,54,K,42.9,K,2.4,K,59.5,K
+223,North Hollywood,Los Angeles Basin,Apr 2022,5.57,K,0.26,K,577,K,12.1,K,77.9,K,53.8,K,64.9,L,89,K,39,K,61,L,49.3,L,2.6,K,65.8, 
+223,North Hollywood,Los Angeles Basin,May 2022,6.20, ,0.00, ,609, ,13.9,K,77.9, ,55.8, ,66.1,K,90, ,45, ,64,K,52.4,K,2.7,K,69.4, 
+223,North Hollywood,Los Angeles Basin,Jun 2022,6.97,K,0.02, ,660, ,17.7,K,86.6,K,61.6,K,73.0,K,95,K,41,K,65,K,59.8,K,2.7,K,74.3, 
+223,North Hollywood,Los Angeles Basin,Jul 2022,6.97, ,0.00, ,631, ,18.7,K,88.3, ,63.4, ,73.9, ,93, ,41, ,66,K,61.5,K,2.7,K,76.5, 
+223,North Hollywood,Los Angeles Basin,Aug 2022,6.91,K,0.00, ,589, ,18.6,K,93.8,K,64.8, ,78.1,K,90, ,35, ,58,K,61.2,K,2.2,K,78.0, 
+223,North Hollywood,Los Angeles Basin,Sep 2022,5.04,K,0.17,K,474, ,19.7,K,93.2,K,67.0,K,78.8,K,90, ,36, ,58,L,61.4,L,1.4,K,76.6, 
+223,North Hollywood,Los Angeles Basin,Oct 2022,3.48,K,0.02, ,364, ,16.6,K,83.7, ,59.1,K,69.4, ,90, ,42, ,66,L,56.5,L,1.3,K,72.3, 
+223,North Hollywood,Los Angeles Basin,Nov 2022,2.32,K,0.67,K,292, ,8.3,K,73.9, ,44.6,K,57.4, ,82, ,27, ,51,K,37.8,K,1.1,K,58.9, 
+223,North Hollywood,Los Angeles Basin,Dec 2022,1.36,K,3.03, ,199, ,10.3,K,66.9,K,44.6,K,54.1, ,94, ,45, ,72,K,44.4,K,1.0,K,53.9, 
+223,North Hollywood,Los Angeles Basin,Jan 2023,1.55,K,3.13,K,233,K,9.4,K,64.0, ,43.8,L,52.8,K,92,K,45,K,67,L,40.9,L,1.1,K,53.1,K
+223,North Hollywood,Los Angeles Basin,Feb 2023,2.22,K,0.03,K,310,K,8.2, ,69.0,K,42.6, ,54.5,K,82, ,37, ,58,K,38.2,K,1.4,K,52.4,K
+223,North Hollywood,Los Angeles Basin,Mar 2023,3.07,K,0.89,K,377,K,10.6,K,65.3, ,46.7,K,54.8,K,94, ,53, ,72,K,44.9,K,2.1,K,55.5,K
+223,North Hollywood,Los Angeles Basin,Apr 2023,5.16,K,0.02,K,550,K,14.2,K,81.6,L,52.5,L,63.8,K,92,K,48,K,68,L,51.5,L,2.4,K,62.5,K
+223,North Hollywood,Los Angeles Basin,May 2023,4.41,K,0.52,K,461, ,17.4,K,77.3, ,58.8,K,66.0,K,96,K,60,K,78,L,58.7,L,2.4,K,66.9, 
+223,North Hollywood,Los Angeles Basin,Jun 2023,4.39, ,0.00, ,457, ,17.6,K,78.9,L,59.1,K,67.8, ,95, ,57, ,75,K,59.7,K,2.3,K,69.0,K
+223,North Hollywood,Los Angeles Basin,Jul 2023,7.18,K,0.00, ,607, ,23.7,K,91.9,L,67.0,K,81.5,L,91,K,39,K,63,L,64.5,L,2.3, ,77.1,K
+223,North Hollywood,Los Angeles Basin,Aug 2023,6.37,K,0.20,K,547, ,24.6,K,99.2,L,68.3,K,80.8,K,96,K,43,K,66,L,67.5,L,2.2, ,77.8,K
+223,North Hollywood,Los Angeles Basin,Sep 2023,4.10,K,0.02, ,402, ,24.8,K,95.4,L,68.2,K,78.1,K,96,K,54,K,76,L,69.3,L,2.1, ,73.9, 
+223,North Hollywood,Los Angeles Basin,Oct 2023,4.11,K,0.00, ,382, ,17.7,K,92.6,L,54.5,L,74.0,L,93,K,30,K,63,L,58.0,L,1.7, ,69.8, 
+223,North Hollywood,Los Angeles Basin,Nov 2023,2.72,K,0.06,K,283, ,1.8,K,91.7,L,49.1,L,71.0,L,84,L,58,L,44,L,46.8,L,1.6,K,62.4, 
+223,North Hollywood,Los Angeles Basin,Dec 2023,1.77,K,0.05, ,205, ,0.4,K,83.3,L,,M,,M,,M,,M,,M,,M,1.6,K,58.0,K
+223,North Hollywood,Los Angeles Basin,Jan 2024,2.23,K,0.01, ,255, ,0.3,K,,M,,M,,M,,M,,M,,M,,M,1.9,K,55.0,K
+223,North Hollywood,Los Angeles Basin,Feb 2024,3.09,K,0.13,K,266,K,0.2,K,,M,,M,,M,,M,,M,,M,,M,1.9,K,55.6, 
+223,North Hollywood,Los Angeles Basin,Mar 2024,4.10,K,2.20,K,424,K,0.2,K,,M,,M,,M,,M,,M,,M,,M,2.3,K,59.0,K
+223,North Hollywood,Los Angeles Basin,Apr 2024,5.33,K,0.61,K,507, ,0.3,K,,M,,M,,M,,M,,M,,M,,M,2.4, ,62.2,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
